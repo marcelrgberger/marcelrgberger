@@ -76,6 +76,22 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 
 ## Technologien & Werkzeuge – mein tägliches Handwerkszeug
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![BASIC](https://img.shields.io/badge/BASIC-01579B?style=for-the-badge)
+![Turbo Pascal](https://img.shields.io/badge/Turbo%20Pascal-FF0000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+
 | Kategorie                  | Technologien & Plattformen                                                                                                                                                 |
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Programmiersprachen         | Java (J2EE / Java EE, Spring Boot, Quarkus) • Dart • Python • Bash (Shell) • C • BASIC • Turbo Pascal • JavaScript • TypeScript • Go • Groovy • Swift                       |
