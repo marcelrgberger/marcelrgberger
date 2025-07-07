@@ -170,8 +170,6 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 | Business Tools & Office     | Word • Excel • PowerPoint • Miro • Jira & Confluence • SAP                                                                                                                 |
 | Methoden & Arbeitsweisen    | Scrum • Scrum Master Certified • Scrum Developer • Kanban • Pair Programming • Test Driven Development (TDD)                                                               |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelrgberger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
