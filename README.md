@@ -228,8 +228,7 @@ Als Unternehmerpaar arbeiten wir praxisnah, direkt und immer mit klarem Fokus au
 
 ### 👨‍💻 Marcel Berger – IT, Software & Business
 - 🌐 Website: [marcelrgberger.de](https://www.marcelrgberger.de)
-- 🎥 YouTube: [ButterBeiDieFische](https://www.youtube.com/@butterbeidiefische.official)
-- 🌐 Kanal-Website: [butterbeidiefische.online](https://www.butterbeidiefische.online)
+- 🎥 YouTube: [Marcel Berger - Apps und mehr](https://www.youtube.com/@marcel.berger.official)
 - 💼 LinkedIn: [Zum Profil von Marcel Berger](https://www.linkedin.com/in/marcel-r-g-berger)
 - 💻 GitHub: [marcelrgberger](https://github.com/marcelrgberger)
 - 📸 Instagram: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official)
