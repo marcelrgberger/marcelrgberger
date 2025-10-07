@@ -22,53 +22,53 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 
 ## Mein Profil in Schlagworten
 
-### 🖥️ Technologien & Softwareentwicklung
+### Technologien & Softwareentwicklung
 
-* 🚀 Über 20 Jahre Erfahrung in der Softwareentwicklung, davon mehr als ein Jahrzehnt als Softwarearchitekt und technischer Leiter in komplexen Enterprise-Projekten
-* ☁️ Cloud-native Backend-Entwicklung mit Java (J2EE / Java EE, Spring Boot, Quarkus) – von klassischen Enterprise-Systemen bis zu hochskalierbaren Microservices-Architekturen
-* 📱 Flutter-App-Entwicklung für iOS und Android: Architektur, State Management mit Riverpod, responsive UI/UX, Performance-Optimierung und Integration leistungsfähiger REST- und GraphQL-APIs
-* 🔌 Entwicklung robuster Enterprise-Integrationen und API-Designs für REST, GraphQL und SOAP, inklusive Schnittstellenarchitektur und Security-Konzepte
-* 🗄️ Datenbanken: PostgreSQL, Oracle, MySQL – Modellierung, Optimierung und Anbindung für hochperformante Anwendungen
-* ✉️ Event-Driven Architectures mit Apache Kafka und RabbitMQ für skalierbare und resiliente Systemkommunikation
-
----
-
-### 🔐 Security & Identity Management
-
-* 🔐 Experte für Security und Identity Management, inklusive Implementierung von Keycloak, OAuth2, SAML, SailPoint IdentityIQ und Microsoft Entra ID (Azure AD)
-* 🛡️ Konzeption und Umsetzung sicherer Authentifizierungs- und Autorisierungslösungen, Identity Federation und Single Sign-On für Enterprise- und Cloud-Umgebungen
+* Über 20 Jahre Erfahrung in der Softwareentwicklung, davon mehr als ein Jahrzehnt als Softwarearchitekt und technischer Leiter in komplexen Enterprise-Projekten
+* Cloud-native Backend-Entwicklung mit Java (J2EE / Java EE, Spring Boot, Quarkus) – von klassischen Enterprise-Systemen bis zu hochskalierbaren Microservices-Architekturen
+* Flutter-App-Entwicklung für iOS und Android: Architektur, State Management mit Riverpod, responsive UI/UX, Performance-Optimierung und Integration leistungsfähiger REST- und GraphQL-APIs
+* Entwicklung robuster Enterprise-Integrationen und API-Designs für REST, GraphQL und SOAP, inklusive Schnittstellenarchitektur und Security-Konzepte
+* Datenbanken: PostgreSQL, Oracle, MySQL – Modellierung, Optimierung und Anbindung für hochperformante Anwendungen
+* Event-Driven Architectures mit Apache Kafka und RabbitMQ für skalierbare und resiliente Systemkommunikation
 
 ---
 
-### ⚙️ DevOps, CI/CD & Cloud Operations
+### Security & Identity Management
 
-* ⚙️ Aufbau vollständiger CI/CD-Pipelines und Automatisierungen mit GitHub Actions und Argo CD
-* 🐳 Containerisierung mit Docker und Podman sowie Orchestrierung mit Kubernetes, inklusive Infrastruktur-as-Code und automatisierten Deployments in produktiven Cloud-Umgebungen
-* 🌐 Erfahrung mit Azure Cloud Services, insbesondere AKS (Azure Kubernetes Service), Blob & File Storage, Key Vault und weiteren Cloud-native Komponenten
-
----
-
-### 🧠 Digitale Transformation & Prozessautomatisierung
-
-* 🧠 Strategischer Treiber digitaler Transformation: Analyse, Optimierung und Digitalisierung von Geschäftsprozessen im Mittelstand sowie in kritischen Infrastrukturen
-* 🔄 Umsetzung nachhaltiger Prozessdigitalisierung und Workflow-Automatisierung, inklusive BPMN-Lösungen mit Camunda und Low-Code-Automatisierungen mit Make.com und Zapier
+* Experte für Security und Identity Management, inklusive Implementierung von Keycloak, OAuth2, SAML, SailPoint IdentityIQ und Microsoft Entra ID (Azure AD)
+* Konzeption und Umsetzung sicherer Authentifizierungs- und Autorisierungslösungen, Identity Federation und Single Sign-On für Enterprise- und Cloud-Umgebungen
 
 ---
 
-### 👥 Führung, Agile Methoden & Business
+### DevOps, CI/CD & Cloud Operations
 
-* 🤝 Mehr als 10 Jahre Erfahrung als Unternehmer und Selbstständiger, mit Gründung, Aufbau und Führung mehrerer Unternehmen in IT-Consulting, Softwareentwicklung und digitalen Geschäftsmodellen
-* 💡 Unternehmerischer Stratege mit Fokus auf Skalierung, Monetarisierung und Entwicklung nachhaltiger digitaler Produkte und Geschäftsmodelle
-* 🏢 Teamführung und Mentoring von Entwicklern, Architekten und cross-funktionalen Teams in agilen Projekten sowie Verantwortung für Recruiting, Coaching und Teamentwicklung
-* 🌀 Praktische Erfahrung mit Scrum, Kanban und DevOps-orientierter Entwicklung, inklusive Product Ownership und Stakeholder-Management auf C-Level
+* Aufbau vollständiger CI/CD-Pipelines und Automatisierungen mit GitHub Actions und Argo CD
+* Containerisierung mit Docker und Podman sowie Orchestrierung mit Kubernetes, inklusive Infrastruktur-as-Code und automatisierten Deployments in produktiven Cloud-Umgebungen
+* Erfahrung mit Azure Cloud Services, insbesondere AKS (Azure Kubernetes Service), Blob & File Storage, Key Vault und weiteren Cloud-native Komponenten
+
+---
+
+### Digitale Transformation & Prozessautomatisierung
+
+* Strategischer Treiber digitaler Transformation: Analyse, Optimierung und Digitalisierung von Geschäftsprozessen im Mittelstand sowie in kritischen Infrastrukturen
+* Umsetzung nachhaltiger Prozessdigitalisierung und Workflow-Automatisierung, inklusive BPMN-Lösungen mit Camunda und Low-Code-Automatisierungen mit Make.com und Zapier
+
+---
+
+### Führung, Agile Methoden & Business
+
+* Mehr als 10 Jahre Erfahrung als Unternehmer und Selbstständiger, mit Gründung, Aufbau und Führung mehrerer Unternehmen in IT-Consulting, Softwareentwicklung und digitalen Geschäftsmodellen
+* Unternehmerischer Stratege mit Fokus auf Skalierung, Monetarisierung und Entwicklung nachhaltiger digitaler Produkte und Geschäftsmodelle
+* Teamführung und Mentoring von Entwicklern, Architekten und cross-funktionalen Teams in agilen Projekten sowie Verantwortung für Recruiting, Coaching und Teamentwicklung
+* Praktische Erfahrung mit Scrum, Kanban und DevOps-orientierter Entwicklung, inklusive Product Ownership und Stakeholder-Management auf C-Level
 
 ---
 
 
-### 🔭 Aktuelle Position & Nebenprojekte
+### Aktuelle Position & Nebenprojekte
 
-* 🏢 **Aktuell**: Leiter Digitalisierung & Projektkoordination bei einem **KRITIS-Infrastrukturbetreiber**, verantwortlich für **Digitalstrategie**, IT-Projektportfolios, Cybersicherheit und Innovation
-* 🎯 **Nebenberuflich**: Unternehmer, **App-Entwickler** und **Content Creator** – Vermittlung komplexer IT-Themen, Aufbau skalierbarer digitaler Geschäftsmodelle und Entwicklung marktreifer Apps mit klarer Monetarisierungsstrategie
+* **Aktuell**: Leiter Digitalisierung & Projektkoordination bei einem **KRITIS-Infrastrukturbetreiber**, verantwortlich für **Digitalstrategie**, IT-Projektportfolios, Cybersicherheit und Innovation
+* **Nebenberuflich**: Unternehmer, **App-Entwickler** und **Content Creator** – Vermittlung komplexer IT-Themen, Aufbau skalierbarer digitaler Geschäftsmodelle und Entwicklung marktreifer Apps mit klarer Monetarisierungsstrategie
 
 
 ---
@@ -226,24 +226,24 @@ Als Unternehmerpaar arbeiten wir praxisnah, direkt und immer mit klarem Fokus au
 
 ## Kontakt & Präsenz
 
-### 👨‍💻 Marcel Berger – IT, Software & Business
-- 🌐 Website: [marcelrgberger.de](https://www.marcelrgberger.de)
-- 🎥 YouTube: [Marcel Berger - Apps und mehr](https://www.youtube.com/@marcel.berger.official)
-- 💼 LinkedIn: [Zum Profil von Marcel Berger](https://www.linkedin.com/in/marcel-r-g-berger)
-- 💻 GitHub: [marcelrgberger](https://github.com/marcelrgberger)
-- 📸 Instagram: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official)
-- 🕊️ X (ehem. Twitter): [@marcelrgberger](https://x.com/marcelrgberger)
+### Marcel Berger – IT, Software & Business
+- Website: [marcelrgberger.de](https://www.marcelrgberger.de)
+- YouTube: [Marcel Berger - Apps und mehr](https://www.youtube.com/@marcel.berger.official)
+- LinkedIn: [Zum Profil von Marcel Berger](https://www.linkedin.com/in/marcel-r-g-berger)
+- GitHub: [marcelrgberger](https://github.com/marcelrgberger)
+- Instagram: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official)
+- X (ehem. Twitter): [@marcelrgberger](https://x.com/marcelrgberger)
 
-### 💄 Jasmin Rosenstock – Beauty & Lifestyle
-- 🌐 Website: [jasminelise-beauty.de](https://www.jasminelise-beauty.de)
-- 🎥 YouTube: [jasminelise_beauty](https://www.youtube.com/@jasminelise_beauty)
-- 📸 Instagram: [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty)
+### Jasmin Rosenstock – Beauty & Lifestyle
+- Website: [jasminelise-beauty.de](https://www.jasminelise-beauty.de)
+- YouTube: [jasminelise_beauty](https://www.youtube.com/@jasminelise_beauty)
+- Instagram: [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty)
 
-### 🛍️ Unsere Marke
+### Unsere Marke
 - 🛒 Online-Shop: [novinophobia.store](https://www.novinophobia.store)
 
-### 🗂️ Unser Unternehmen
-- 🌐 Website der GbR: [berger-rosenstock.de](https://www.berger-rosenstock.de)
+### Unser Unternehmen
+- Website der GbR: [berger-rosenstock.de](https://www.berger-rosenstock.de)
 
 ---
 
