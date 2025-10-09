@@ -1,80 +1,76 @@
-# Moin, ich bin Marcel Berger
+# Hi, I'm Marcel Berger
 
-💻 Senior Software Architect, Cloud Engineer & Digitalisierungsexperte – mit 20 Jahren tief verwurzelter IT-Kompetenz
-*Java-Mastermind • Quarkus-Vordenker • Flutter-Pionier • DevOps-Guru • IT-Stratege mit Hands-on-Mentalität*
+Senior Software Architect, Cloud Engineer & Digitalization Expert – with 20 years of deeply rooted IT expertise  
+*Java mastermind • Quarkus visionary • Flutter pioneer • DevOps expert • IT strategist with a hands-on mentality*
 
-Ich bin kein Blender. Ich bin hanseatisch direkt – geboren und aufgewachsen in Osnabrück, mit klarer Kante, technischem Tiefgang und einem lösungsorientierten Mindset. Wenn du jemanden suchst, der schnackt statt liefert, bist du bei mir falsch. Wenn du aber jemanden brauchst, der digitale Projekte pragmatisch umsetzt, Verantwortung übernimmt und keine Angst vor Komplexität hat – dann herzlich willkommen.
+I’m not a pretender. I’m Hanseatically direct – born and raised in Osnabrück, with a clear edge, technical depth, and a solution-oriented mindset. If you’re looking for someone who talks instead of delivers, I’m not your guy. But if you need someone who implements digital projects pragmatically, takes responsibility, and isn’t afraid of complexity – then welcome.
 
-Meine Geschichte beginnt irgendwann 1989 oder 1990 – so genau weiß das heute keiner mehr. Facebook war noch nicht erfunden, Filme für die Kamera waren teuer, und wer Erinnerungen festhalten wollte, brauchte entweder einen guten Fotoapparat oder ein verdammt gutes Gedächtnis. Aber das ENERGY STAR-Logo gab es schon – und ich hatte meinen ersten Rechner: einen Weico Computer unter Weico DOS. BASIC war meine erste Sprache – lange bevor ich Deutsch grammatikalisch beherrschte. Es folgten Pascal, C, Java, Python – und eine Laufbahn, die mich durch viele Welten führte: von der Shell in die Cloud, von Start-ups bis zu Konzernen, vom Terminal bis in die Vorstandsetage. Ich bin in einer Welt aufgewachsen, in der man das BIOS noch per Hand konfigurierte, Stack Overflows nicht gegoogelt werden konnten und man Speicher effizient zu verwalten lernte – Erfahrungen, die mich bis heute prägen.
+My story begins sometime in 1989 or 1990 – no one really knows anymore. Facebook hadn’t been invented, camera film was expensive, and those who wanted to preserve memories needed either a good camera or a damn good memory. But the ENERGY STAR logo already existed – and I had my first computer: a Weico computer running Weico DOS. BASIC was my first language – long before I mastered German grammar. Then came Pascal, C, Java, Python – and a career that led me through many worlds: from the shell to the cloud, from startups to corporations, from terminals to boardrooms. I grew up in a world where the BIOS was still configured by hand, stack overflows couldn’t be googled, and you learned to manage memory efficiently – experiences that still shape me today.
 
-Ich entwickle skalierbare Enterprise-Backends mit Java, automatisiere Workflows mit Camunda BPMN, bringe komplexe Systeme in die Cloud (Azure, Kubernetes, Civo) und entwickle plattformeigene Mobile-Apps mit Flutter. Ich denke langfristig, nordisch nüchtern und entwickle mit einem klaren Ziel: Software, die läuft. Heute, morgen, übermorgen.
+I develop scalable enterprise backends with Java, automate workflows with Camunda BPMN, move complex systems to the cloud (Azure, Kubernetes, Civo), and build native mobile apps with Flutter. I think long-term, with northern clarity, and develop with one clear goal: software that runs. Today, tomorrow, and the day after.
 
-Neben meiner Leidenschaft für Software habe ich viele Jahre in der Gastronomie auf Kreuzfahrtschiffen und in der gehobenen Hotellerie gearbeitet. Ich habe Bars eröffnet, Teams geführt, Events geplant und internationale Gäste begeistert. Diese Zeit hat mich gelehrt: Leadership ist mehr als Projektplanung, Kommunikation mehr als E-Mails, Belastbarkeit mehr als ein Buzzword. Ich bringe den Charme eines Gastgebers mit der analytischen Tiefe eines IT-Architekten zusammen.
+In addition to my passion for software, I spent many years working in hospitality on cruise ships and in upscale hotels. I’ve opened bars, led teams, planned events, and inspired international guests. That time taught me: leadership is more than project planning, communication is more than emails, and resilience is more than a buzzword. I combine the charm of a host with the analytical depth of an IT architect.
 
-Studiert habe ich Wirtschaftsinformatik, gelernt habe ich Restaurantfachmann und Barmeister (IHK). Nicht nur hart an der Tastatur, sondern auch hart am Brett. Ich bin Freund elektronischer Musik und langer Nächte – mal zum Programmieren, mal zum Feiern. Zwischen Zeilen Code und Beats finde ich meinen Ausgleich. Struktur, Pragmatismus und lösungsorientiertes Handeln stehen für mich immer im Vordergrund.
+I studied business informatics, trained as a restaurant specialist and master bartender (IHK). Not only hard at the keyboard, but also hard at the bar. I’m a fan of electronic music and long nights – sometimes for coding, sometimes for celebrating. Between lines of code and beats, I find my balance. Structure, pragmatism, and solution-oriented thinking are always my priorities.
 
-Ich bin wie das norddeutsche Wetter: klar, schnörkellos, mit Tiefgang. Ich analysiere wie ein CTO, agiere wie ein Kapitän im Sturm – und bleibe dabei immer auf Kurs.
+I’m like North German weather: clear, straightforward, and deep. I analyze like a CTO, act like a captain in a storm – and always stay on course.
 
-Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, sondern Lösungen. Nicht nur Projekte, sondern Ergebnisse. Willkommen bei Marcel Berger – dem Architekten hinter performanter, sicherer und wirtschaftlich sinnvoller IT. Echt. Ehrlich. Effizient.
+If you google me, you’ll find not just code, but concepts. Not just skills, but solutions. Not just projects, but results. Welcome to Marcel Berger – the architect behind performant, secure, and economically sound IT. Real. Honest. Efficient.
 
 ---
 
+## My Profile in Keywords
 
-## Mein Profil in Schlagworten
+### Technologies & Software Development
 
-### Technologien & Softwareentwicklung
-
-* Über 20 Jahre Erfahrung in der Softwareentwicklung, davon mehr als ein Jahrzehnt als Softwarearchitekt und technischer Leiter in komplexen Enterprise-Projekten
-* Cloud-native Backend-Entwicklung mit Java (J2EE / Java EE, Spring Boot, Quarkus) – von klassischen Enterprise-Systemen bis zu hochskalierbaren Microservices-Architekturen
-* Flutter-App-Entwicklung für iOS und Android: Architektur, State Management mit Riverpod, responsive UI/UX, Performance-Optimierung und Integration leistungsfähiger REST- und GraphQL-APIs
-* Entwicklung robuster Enterprise-Integrationen und API-Designs für REST, GraphQL und SOAP, inklusive Schnittstellenarchitektur und Security-Konzepte
-* Datenbanken: PostgreSQL, Oracle, MySQL – Modellierung, Optimierung und Anbindung für hochperformante Anwendungen
-* Event-Driven Architectures mit Apache Kafka und RabbitMQ für skalierbare und resiliente Systemkommunikation
+* Over 20 years of experience in software development, more than a decade as a software architect and technical lead in complex enterprise projects  
+* Cloud-native backend development with Java (J2EE / Java EE, Spring Boot, Quarkus) – from classic enterprise systems to highly scalable microservice architectures  
+* Flutter app development for iOS and Android: architecture, state management with Riverpod, responsive UI/UX, performance optimization, and integration of powerful REST and GraphQL APIs  
+* Development of robust enterprise integrations and API designs for REST, GraphQL, and SOAP, including interface architecture and security concepts  
+* Databases: PostgreSQL, Oracle, MySQL – modeling, optimization, and integration for high-performance applications  
+* Event-driven architectures with Apache Kafka and RabbitMQ for scalable and resilient system communication  
 
 ---
 
 ### Security & Identity Management
 
-* Experte für Security und Identity Management, inklusive Implementierung von Keycloak, OAuth2, SAML, SailPoint IdentityIQ und Microsoft Entra ID (Azure AD)
-* Konzeption und Umsetzung sicherer Authentifizierungs- und Autorisierungslösungen, Identity Federation und Single Sign-On für Enterprise- und Cloud-Umgebungen
+* Expert in security and identity management, including implementation of Keycloak, OAuth2, SAML, SailPoint IdentityIQ, and Microsoft Entra ID (Azure AD)  
+* Design and implementation of secure authentication and authorization solutions, identity federation, and single sign-on for enterprise and cloud environments  
 
 ---
 
 ### DevOps, CI/CD & Cloud Operations
 
-* Aufbau vollständiger CI/CD-Pipelines und Automatisierungen mit GitHub Actions und Argo CD
-* Containerisierung mit Docker und Podman sowie Orchestrierung mit Kubernetes, inklusive Infrastruktur-as-Code und automatisierten Deployments in produktiven Cloud-Umgebungen
-* Erfahrung mit Azure Cloud Services, insbesondere AKS (Azure Kubernetes Service), Blob & File Storage, Key Vault und weiteren Cloud-native Komponenten
+* Building complete CI/CD pipelines and automations with GitHub Actions and Argo CD  
+* Containerization with Docker and Podman as well as orchestration with Kubernetes, including infrastructure-as-code and automated deployments in production cloud environments  
+* Experience with Azure Cloud Services, especially AKS (Azure Kubernetes Service), Blob & File Storage, Key Vault, and other cloud-native components  
 
 ---
 
-### Digitale Transformation & Prozessautomatisierung
+### Digital Transformation & Process Automation
 
-* Strategischer Treiber digitaler Transformation: Analyse, Optimierung und Digitalisierung von Geschäftsprozessen im Mittelstand sowie in kritischen Infrastrukturen
-* Umsetzung nachhaltiger Prozessdigitalisierung und Workflow-Automatisierung, inklusive BPMN-Lösungen mit Camunda und Low-Code-Automatisierungen mit Make.com und Zapier
-
----
-
-### Führung, Agile Methoden & Business
-
-* Mehr als 10 Jahre Erfahrung als Unternehmer und Selbstständiger, mit Gründung, Aufbau und Führung mehrerer Unternehmen in IT-Consulting, Softwareentwicklung und digitalen Geschäftsmodellen
-* Unternehmerischer Stratege mit Fokus auf Skalierung, Monetarisierung und Entwicklung nachhaltiger digitaler Produkte und Geschäftsmodelle
-* Teamführung und Mentoring von Entwicklern, Architekten und cross-funktionalen Teams in agilen Projekten sowie Verantwortung für Recruiting, Coaching und Teamentwicklung
-* Praktische Erfahrung mit Scrum, Kanban und DevOps-orientierter Entwicklung, inklusive Product Ownership und Stakeholder-Management auf C-Level
+* Strategic driver of digital transformation: analysis, optimization, and digitalization of business processes in SMEs as well as in critical infrastructures  
+* Implementation of sustainable process digitalization and workflow automation, including BPMN solutions with Camunda and low-code automations with Make.com and Zapier  
 
 ---
 
+### Leadership, Agile Methods & Business
 
-### Aktuelle Position & Nebenprojekte
-
-* **Aktuell**: Leiter Digitalisierung & Projektkoordination bei einem **KRITIS-Infrastrukturbetreiber**, verantwortlich für **Digitalstrategie**, IT-Projektportfolios, Cybersicherheit und Innovation
-* **Nebenberuflich**: Unternehmer, **App-Entwickler** und **Content Creator** – Vermittlung komplexer IT-Themen, Aufbau skalierbarer digitaler Geschäftsmodelle und Entwicklung marktreifer Apps mit klarer Monetarisierungsstrategie
-
+* More than 10 years of experience as an entrepreneur and self-employed professional, founding, building, and leading multiple companies in IT consulting, software development, and digital business models  
+* Entrepreneurial strategist focused on scaling, monetization, and developing sustainable digital products and business models  
+* Team leadership and mentoring of developers, architects, and cross-functional teams in agile projects, including responsibility for recruiting, coaching, and team development  
+* Practical experience with Scrum, Kanban, and DevOps-oriented development, including product ownership and stakeholder management at C-level  
 
 ---
 
+### Current Position & Side Projects
 
-## Technologien & Werkzeuge – mein tägliches Handwerkszeug
+* **Currently**: Head of Digitalization & Project Coordination at a **critical infrastructure operator (KRITIS)**, responsible for **digital strategy**, IT project portfolios, cybersecurity, and innovation  
+* **Additionally**: Entrepreneur, **app developer**, and **content creator** – communicating complex IT topics, building scalable digital business models, and developing market-ready apps with clear monetization strategies  
+
+---
+
+## Technologies & Tools – My Daily Toolkit
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -151,105 +147,101 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 
-| Kategorie                  | Technologien & Plattformen                                                                                                                                                 |
-|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Programmiersprachen         | Java (J2EE / Java EE, Spring Boot, Quarkus) • Dart • Python • Bash (Shell) • C • BASIC • Turbo Pascal • JavaScript • TypeScript • Go • Groovy • Swift                       |
-| Backend-Entwicklung         | Quarkus • Spring Boot • Java EE • RESTful Services • GraphQL APIs • Microservices-Architekturen                                                                            |
-| Frontend & UI Frameworks    | Flutter (iOS & Android) • Vaadin • Angular • Vue.js • SwiftUI (iOS) • JSP • JSF • PrimeFaces • RichFaces                                                                  |
-| Identity & Security         | Keycloak (IAM) • OAuth2 • SAML • JWT • SailPoint IdentityIQ • Microsoft Entra ID                                                                                           |
-| DevOps & CI/CD              | Git (GitHub, Bitbucket) • GitHub Actions (CI/CD Automation) • Jenkins • Argo CD (GitOps Deployment) • Docker • Podman • Kubernetes • K9s (Kubernetes Management) • Portainer |
-| Build & Repository Management | Maven • Gradle • Nexus Repository • Sonatype Nexus • JFrog Artifactory • SonarQube • SonarCloud                                                                          |
-| Workflow & Prozessautomatisierung | Camunda BPMN • Kogito • External Task Pattern • Make.com (Low-Code Automation) • Zapier (Integration Automation)                                                   |
-| Cloud & Infrastruktur       | Microsoft Azure (AKS, Entra ID, Key Vault, Blob & File Storage) • Civo Kubernetes                                                                                          |
-| Betriebssysteme & Administration | Windows • macOS • Linux (Ubuntu, CentOS, RedHat, Debian, Alpine Linux, Raspberry Pi OS)                                                                              |
-| Event-Driven Architecture & Messaging | Apache Kafka • RabbitMQ                                                                                                                                         |
-| Datenbanken & Storage       | PostgreSQL • Oracle DB • MySQL • H2 Datenbanken • MongoDB • Cassandra • Liquibase (Database Migrations)                                                                    |
-| Testing & Qualitätssicherung | jUnit • Mockito • Selenium                                                                                                                                               |
-| Reporting & Template Engines | JasperReports • Qute (Quarkus Template Engine) • Thymeleaf • Freemarker • Velocity                                                                                        |
-| IDE & Entwicklungsumgebungen | Eclipse • JetBrains IntelliJ IDEA • JetBrains DataGrip • Android Studio • Xcode • Visual Studio Code (VS Code) • Vim • Nano                                               |
-| Business Tools & Office     | Word • Excel • PowerPoint • Miro • Jira & Confluence • SAP                                                                                                                 |
-| Methoden & Arbeitsweisen    | Scrum • Scrum Master Certified • Scrum Developer • Kanban • Pair Programming • Test Driven Development (TDD)                                                               |
 
-
----
-
-
-## Beruflicher Hintergrund
-
-Ich habe Enterprise-Software entwickelt, lange bevor „Digitalisierung“ zum Buzzword in Vorstandsetagen wurde. Ob regulatorische Finanzsysteme mit höchsten Sicherheitsanforderungen, Prozessplattformen in der Energiewirtschaft, komplexe Identity-Management-Lösungen oder KI-gestützte Dokumentenanalyse – ich liefere IT-Lösungen, die laufen. Robust, skalierbar, verständlich.
-
-Für mich ist IT kein Selbstzweck, sondern ein strategisches Werkzeug. Ich denke nicht in Features, sondern in **echtem geschäftlichen Mehrwert**. Meine Systeme sind so konzipiert, dass sie **morgen produktiv**, **übermorgen erweiterbar** und auch in fünf Jahren noch **wartbar und kosteneffizient** sind. Architekturentscheidungen treffe ich faktenbasiert – mit Fokus auf **Clean Code**, **Wartbarkeit**, **Skalierbarkeit**, **Sicherheit** und **Betriebskosten** über den gesamten Lifecycle.
-
-Aktuell leite ich die **Digitalisierung und Projektkoordination** in einem Unternehmen der **kritischen Infrastruktur (KRITIS)**. Dort verantworte ich die **Digitalstrategie**, entwickle Prozessdigitalisierungen, Automatisierungslösungen und sichere Cloud-Architekturen, führe mein Team fachlich und organisatorisch und manage komplexe Projekte mit hoher Sichtbarkeit bis auf Geschäftsführungsebene.
-
-Davor war ich über zehn Jahre Unternehmer und Geschäftsführer einer eigenen Softwarefirma. In dieser Zeit habe ich:
-
-- **Mehrere Millionenprojekte verantwortet** – von der Akquise über Architektur und Umsetzung bis zum Betrieb
-- **Cross-funktionale Teams aufgebaut und geführt**, bestehend aus Entwicklern, Architekten, DevOps-Engineers und UI/UX-Designern
-- **APIs und Microservices-Architekturen entwickelt**, die heute produktiv in Finanzinstituten, Industrie und Energiewirtschaft im Einsatz sind
-- **Governance-, Security- und Compliance-Strukturen etabliert**, um regulatorische Anforderungen sicher und prüfbar zu erfüllen
-- **CI/CD-Pipelines, Containerisierung und automatisierte Deployments** aufgebaut, um Time-to-Market und Betriebskosten signifikant zu reduzieren
-- **Technische Dokumentationen, Architekturentscheidungen und Betriebskonzepte erstellt**, die für Stakeholder ebenso verständlich wie für Entwickler präzise waren
-
-Ich kann Software **planen**, **architektieren**, **entwickeln**, **betreiben** – und **erklären**. Verständlich. Verantwortlich. Verlässlich. Ich verbinde **technische Tiefe** mit **strategischem Denken**, spreche die Sprache von Entwicklern und Entscheidern und behalte dabei stets das große Ganze im Blick: **Business Value, Qualität, Sicherheit und nachhaltige IT-Architekturen**.
+| Category | Technologies & Platforms |
+|-----------|---------------------------|
+| Programming Languages | Java (J2EE / Java EE, Spring Boot, Quarkus) • Dart • Python • Bash (Shell) • C • BASIC • Turbo Pascal • JavaScript • TypeScript • Go • Groovy • Swift |
+| Backend Development | Quarkus • Spring Boot • Java EE • RESTful Services • GraphQL APIs • Microservice Architectures |
+| Frontend & UI Frameworks | Flutter (iOS & Android) • Vaadin • Angular • Vue.js • SwiftUI (iOS) • JSP • JSF • PrimeFaces • RichFaces |
+| Identity & Security | Keycloak (IAM) • OAuth2 • SAML • JWT • SailPoint IdentityIQ • Microsoft Entra ID |
+| DevOps & CI/CD | Git (GitHub, Bitbucket) • GitHub Actions (CI/CD Automation) • Jenkins • Argo CD (GitOps Deployment) • Docker • Podman • Kubernetes • K9s • Portainer |
+| Build & Repository Management | Maven • Gradle • Nexus Repository • Sonatype Nexus • JFrog Artifactory • SonarQube • SonarCloud |
+| Workflow & Process Automation | Camunda BPMN • Kogito • External Task Pattern • Make.com (Low-Code Automation) • Zapier (Integration Automation) |
+| Cloud & Infrastructure | Microsoft Azure (AKS, Entra ID, Key Vault, Blob & File Storage) • Civo Kubernetes |
+| Operating Systems & Administration | Windows • macOS • Linux (Ubuntu, CentOS, RedHat, Debian, Alpine Linux, Raspberry Pi OS) |
+| Event-Driven Architecture & Messaging | Apache Kafka • RabbitMQ |
+| Databases & Storage | PostgreSQL • Oracle DB • MySQL • H2 Databases • MongoDB • Cassandra • Liquibase (Database Migrations) |
+| Testing & Quality Assurance | jUnit • Mockito • Selenium |
+| Reporting & Template Engines | JasperReports • Qute (Quarkus Template Engine) • Thymeleaf • Freemarker • Velocity |
+| IDEs & Development Environments | Eclipse • JetBrains IntelliJ IDEA • JetBrains DataGrip • Android Studio • Xcode • Visual Studio Code (VS Code) • Vim • Nano |
+| Business Tools & Office | Word • Excel • PowerPoint • Miro • Jira & Confluence • SAP |
+| Methods & Practices | Scrum • Scrum Master Certified • Scrum Developer • Kanban • Pair Programming • Test Driven Development (TDD) |
 
 ---
 
+## Professional Background
 
-## Ein Unternehmen. Zwei Köpfe. Unendliche Möglichkeiten.
+I developed enterprise software long before “digitalization” became a buzzword in boardrooms. Whether it’s regulatory financial systems with the highest security requirements, process platforms in the energy sector, complex identity management solutions, or AI-supported document analysis – I deliver IT solutions that work. Robust, scalable, understandable.
 
-Die **Berger & Rosenstock GbR** vereint die gebündelte Expertise von **Jasmin Rosenstock** und **Marcel Berger** unter einem starken Markendach.  
-Was einst als einfache Zusammenarbeit begann, ist heute eine dynamische Symbiose aus **Technologie, Business, Beauty und Lifestyle** – getragen von fundierter Ausbildung, praktischer Erfahrung und unternehmerischer Leidenschaft.
+For me, IT is not an end in itself but a strategic tool. I don’t think in features, but in **real business value**. My systems are designed to be **productive tomorrow**, **expandable the day after**, and **maintainable and cost-efficient five years from now**. I make architecture decisions based on facts – focusing on **clean code**, **maintainability**, **scalability**, **security**, and **operating costs** throughout the entire lifecycle.
+
+I currently lead **Digitalization and Project Coordination** in a **critical infrastructure (KRITIS)** company. I am responsible for the **digital strategy**, develop process digitalizations, automation solutions, and secure cloud architectures, lead my team technically and organizationally, and manage complex, high-visibility projects up to executive level.
+
+Previously, I was an entrepreneur and managing director of my own software company for over ten years. During this time, I:
+
+- **Managed multiple multimillion-euro projects** – from acquisition to architecture, implementation, and operations  
+- **Built and led cross-functional teams** consisting of developers, architects, DevOps engineers, and UI/UX designers  
+- **Developed APIs and microservice architectures** that are still in productive use today in finance, industry, and the energy sector  
+- **Established governance, security, and compliance structures** to securely and verifiably meet regulatory requirements  
+- **Built CI/CD pipelines, containerization, and automated deployments** to significantly reduce time-to-market and operational costs  
+- **Created technical documentation, architecture decisions, and operational concepts** that were as understandable for stakeholders as they were precise for developers  
+
+I can **plan**, **architect**, **develop**, **operate**, and **explain** software. Understandably. Responsibly. Reliably. I combine **technical depth** with **strategic thinking**, speak the language of developers and decision-makers, and always keep the big picture in mind: **business value, quality, security, and sustainable IT architectures**.
+
+---
+
+## One Company. Two Minds. Endless Possibilities.
+
+**Berger & Rosenstock GbR** combines the joint expertise of **Jasmin Rosenstock** and **Marcel Berger** under one strong brand.  
+What began as a simple collaboration is now a dynamic symbiosis of **technology, business, beauty, and lifestyle** – built on solid education, practical experience, and entrepreneurial passion.
 
 ### Jasmin Rosenstock
 
-Jasmin Rosenstock hat einen Bachelor-Abschluss in **Health Promotion** von der *Coastal Carolina University* (USA) sowie einen Master of Arts in **Public Relations und Corporate Communications** an der *University of Europe for Applied Sciences* erworben.  
-Sie bringt umfassendes Wissen in den Bereichen Gesundheitsförderung, Unternehmenskommunikation, Markenentwicklung und PR-Strategie ein. Ihre Schwerpunkte liegen in **Beauty, Lifestyle, Kommunikation und Markenpositionierung**, wobei sie akademische Expertise mit kreativer Content-Erstellung und strategischem Denken verbindet.
+Jasmin Rosenstock holds a Bachelor’s degree in **Health Promotion** from *Coastal Carolina University (USA)* and a Master of Arts in **Public Relations and Corporate Communications** from the *University of Europe for Applied Sciences*.  
+She brings extensive knowledge in health promotion, corporate communications, brand development, and PR strategy. Her focus areas are **beauty, lifestyle, communication, and brand positioning**, combining academic expertise with creative content creation and strategic thinking.
 
 ### Marcel Berger
 
-Marcel Berger hat einen Bachelorabschluss in **Wirtschaftsinformatik** von der *Technischen Hochschule Mittelhessen* und vereint technische Kompetenz mit betriebswirtschaftlichem Know-how.  
-Zudem ist er ausgebildeter **Restaurantfachmann (IHK)**, **Barmeister (IHK)** mit Weiterbildung zum Barmixer und umfassenden Kenntnissen im Gastronomiemanagement, **Barista** mit Schwerpunkt auf Kaffeezubereitung und Sensorik sowie **IHK-geprüfter Ausbilder (AEVO)**.
+Marcel Berger holds a Bachelor’s degree in **Business Informatics** from the *Technische Hochschule Mittelhessen* and combines technical expertise with business acumen.  
+He is also a certified **Restaurant Specialist (IHK)**, **Master Bartender (IHK)** with additional training as a bartender, with comprehensive knowledge in hospitality management, **Barista** specializing in coffee preparation and sensory analysis, and an **IHK-certified Trainer (AEVO)**.
 
-Er verfügt über **mehr als zwei Jahrzehnte Erfahrung in der IT**, angefangen von Programmierung und Softwarearchitektur über Prozessdigitalisierung und Automatisierung bis hin zur Geschäftsführung von Unternehmen mit Millionenumsätzen. Sein Profil verbindet tiefgehende technische Expertise mit unternehmerischem Denken, Leadership und pragmatischer Umsetzungskompetenz.
+He has **over two decades of experience in IT**, from programming and software architecture to process digitalization and automation, up to managing companies with multimillion-euro revenues. His profile combines deep technical expertise with entrepreneurial thinking, leadership, and pragmatic execution skills.
 
-### Unser gemeinsamer Fokus
+### Our Common Focus
 
-Gemeinsam entwickeln wir **digitale Produkte** wie Apps, Automatisierungslösungen und Workflows, bauen **starke Marken im E-Commerce** auf und produzieren **professionellen Content für YouTube und Social Media**.  
-Dabei bündeln wir technisches Wissen, unternehmerisches Denken, Kreativität und kommunikative Stärke – für Ergebnisse, die **sichtbar, nutzbar und gewinnbringend** sind.
+Together, we develop **digital products** such as apps, automation solutions, and workflows, build **strong brands in e-commerce**, and produce **professional content for YouTube and social media**.  
+We combine technical knowledge, business strategy, creativity, and communication skills – for results that are **visible, useful, and profitable**.
 
-Ob **Softwarearchitektur**, **Print-on-Demand-Produkte**, **Beauty- und Styling-Tipps**, **Markenaufbau** oder **Content mit klarer Haltung**:  
-Als Unternehmerpaar arbeiten wir praxisnah, direkt und immer mit klarem Fokus auf **Mehrwert, Wirkung und nachhaltigen Erfolg**.
-
+Whether **software architecture**, **print-on-demand products**, **beauty and styling tips**, **brand development**, or **content with a clear stance**:  
+As an entrepreneurial couple, we work hands-on, directly, and always with a clear focus on **value, impact, and sustainable success**.
 
 ---
 
-## Kontakt & Präsenz
+## Contact & Presence
 
 ### Marcel Berger – IT, Software & Business
 - Website: [marcelrgberger.de](https://www.marcelrgberger.de)
-- YouTube: [Marcel Berger - Apps und mehr](https://www.youtube.com/@marcel.berger.official)
-- LinkedIn: [Zum Profil von Marcel Berger](https://www.linkedin.com/in/marcel-r-g-berger)
+- YouTube: [Marcel Berger - Apps and More](https://www.youtube.com/@marcel.berger.official)
+- LinkedIn: [View Marcel Berger’s Profile](https://www.linkedin.com/in/marcel-r-g-berger)
 - GitHub: [marcelrgberger](https://github.com/marcelrgberger)
 - Instagram: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official)
-- X (ehem. Twitter): [@marcelrgberger](https://x.com/marcelrgberger)
+- X (formerly Twitter): [@marcelrgberger](https://x.com/marcelrgberger)
 
 ### Jasmin Rosenstock – Beauty & Lifestyle
 - Website: [jasminelise-beauty.de](https://www.jasminelise-beauty.de)
 - YouTube: [jasminelise_beauty](https://www.youtube.com/@jasminelise_beauty)
 - Instagram: [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty)
 
-### Unsere Marke
-- 🛒 Online-Shop: [novinophobia.store](https://www.novinophobia.store)
+### Our Brand
+- Online Shop: [novinophobia.store](https://www.novinophobia.store)
 
-### Unser Unternehmen
-- Website der GbR: [berger-rosenstock.de](https://www.berger-rosenstock.de)
+### Our Company
+- GbR Website: [berger-rosenstock.de](https://www.berger-rosenstock.de)
 
 ---
 
 > *"The only way to do great work is to love what you do." – Steve Jobs*
 
-Danke für deinen Besuch. Wenn du nach echter Substanz in der IT-Welt suchst – hast du sie gerade gefunden. Ehrlich. Direkt. Nordisch gut.
+Thank you for your visit. If you are looking for real substance in the IT world – you’ve just found it. Honest. Direct. Northernly good.
 
-
-[Impressum](https://marcelrgberger.de/impressum)&nbsp;&nbsp;&nbsp;&nbsp;[Datenschutz](https://marcelrgberger.de/datenschutz)
+[Imprint](https://marcelrgberger.de/impressum)    [Privacy Policy](https://marcelrgberger.de/datenschutz)
