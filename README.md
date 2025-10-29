@@ -232,9 +232,6 @@ As an entrepreneurial couple, we work hands-on, directly, and always with a clea
 - YouTube: [jasminelise_beauty](https://www.youtube.com/@jasminelise_beauty)
 - Instagram: [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty)
 
-### Our Brand
-- Online Shop: [novinophobia.store](https://www.novinophobia.store)
-
 ### Our Company
 - GbR Website: [berger-rosenstock.de](https://www.berger-rosenstock.de)
 
