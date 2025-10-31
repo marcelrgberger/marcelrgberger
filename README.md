@@ -21,7 +21,7 @@ The result: robust, scalable, and maintainable systems – built independently a
 
 **DokuAI** – the app that understands documents.  
 AI-powered recognition, analysis, and report generation for professionals.  
-→ [dokuai.app](https://www.dokuai.app)
+→ [dokuai.app](https://dokuai.app)
 
 **Sommelio** – your pocket sommelier *(currently in development)*.  
 Personalized wine recommendations based on taste, occasion, and mood.  
