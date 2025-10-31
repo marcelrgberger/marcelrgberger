@@ -1,92 +1,134 @@
-# Hi, I'm Marcel Berger
+# Apps and Beyond – Turning Ideas into Products
 
-Senior Software Architect, Cloud Engineer & Digitalization Expert – with 20 years of deeply rooted IT expertise  
-*Java mastermind • Quarkus visionary • Flutter pioneer • DevOps expert • IT strategist with a hands-on mentality*
+Hi, I'm Marcel Berger – app developer, software architect, and entrepreneur passionate about building digital products that truly work.
 
 ---
+
+## About Me
+
+I build what I imagine – from first sketch to scalable product.  
+I founded companies, built platforms, led teams, and learned what makes technology valuable – and when it only adds complexity.
+
+Today, I develop apps and systems that combine technical excellence with strategic impact.  
+As a solopreneur, I handle everything end-to-end: design, UX, backend and app development, cloud infrastructure, automation, deployment, and operations.
+
+I work with Flutter, develop enterprise backends with Java & Quarkus, operate Kubernetes clusters (Civo), manage S3 storages and databases, and automate CI/CD pipelines with GitHub Actions.  
+The result: robust, scalable, and maintainable systems – built independently and with a high standard for quality and efficiency.
+
+---
+
+## My Products
+
+**DokuAI** – the app that understands documents.  
+AI-powered recognition, analysis, and report generation for professionals.  
+→ [dokuai.app](https://www.dokuai.app)
+
+**Sommelio** – your pocket sommelier *(currently in development)*.  
+Personalized wine recommendations based on taste, occasion, and mood.  
+→ coming soon
+
+**PaperlessIQ** – your DMS on the go *(currently in development)*.  
+Smart document management and workflow automation – anytime, anywhere.  
+→ coming soon
+
+I build products that turn technology into real value.  
+And if you want, I can build something for you too – efficient, pragmatic, and with the same standards I apply to my own work.
+
+---
+
+## My Focus
+
+- End-to-end product development – from concept to release  
+- Cloud-native architectures with Java, Quarkus, and Kubernetes  
+- Mobile development with Flutter  
+- CI/CD automation and DevOps pipelines with GitHub Actions  
+- System design with focus on scalability, security, and maintainability  
+- Clean architecture and long-term sustainability over short-term fixes  
+
+Technology for me is not an end in itself – it's a tool to simplify processes, reduce costs, and enable innovation.  
+I think in products, not just code. I focus on how technology creates value, not only how it’s implemented.
+
+---
+
+## My Story
 
 I’m not a pretender. I’m Hanseatically direct – born and raised in Osnabrück, with a clear edge, technical depth, and a solution-oriented mindset.  
 If you’re looking for someone who talks instead of delivers, I’m not your guy.  
 But if you need someone who implements digital projects pragmatically, takes responsibility, and isn’t afraid of complexity – then welcome.
 
-My story begins sometime in 1989 or 1990 – no one really knows anymore.  
+My story began sometime around 1989 or 1990 – no one really knows anymore.  
 Facebook didn’t exist, camera film was expensive, and those who wanted to preserve memories needed either a good camera or a damn good memory.  
-But the ENERGY STAR logo already existed – and I had my first computer: a Weico computer running Weico DOS.
+But the ENERGY STAR logo already existed – and I had my first computer: a Weico machine running Weico DOS.
 
-BASIC was my first language – long before I mastered German grammar. Then came Pascal, C, Java, and Python – and a career that led me through many worlds: from the shell to the cloud, from startups to corporations, from terminals to boardrooms.  
-I grew up in a world where the BIOS was configured by hand, stack overflows couldn’t be googled, and memory management was an art. These experiences still shape my engineering mindset today.
+BASIC was my first language – long before I mastered German grammar.  
+Then came Pascal, C, Java, and Python – and a career that led me through many worlds: from the shell to the cloud, from startups to corporations, from terminals to boardrooms.  
+I grew up in a world where BIOS was configured by hand, stack overflows couldn’t be googled, and memory management was still a craft.  
+Those early years still define how I design systems today – efficient, reliable, and built for the long run.
 
----
+I develop scalable enterprise backends with Java, automate workflows with Camunda BPMN, move complex systems to the cloud, and build native mobile apps with Flutter.  
+I think long-term, with northern clarity, and develop with one clear goal: software that runs – today, tomorrow, and the day after.
 
-I develop scalable enterprise backends with Java, automate workflows with Camunda BPMN, move complex systems to the cloud (Azure, Kubernetes, Civo), and build native mobile apps with Flutter.  
-I think long-term, with northern clarity, and develop with one clear goal: software that runs. Today, tomorrow, and the day after.
-
-In addition to my passion for software, I spent many years working in hospitality on cruise ships and in upscale hotels.  
-I’ve opened bars, led teams, planned events, and inspired international guests. That time taught me: leadership is more than project planning, communication is more than emails, and resilience is more than a buzzword.  
-I combine the charm of a host with the analytical depth of an IT architect.
-
----
+Beyond code, I worked for years in hospitality on cruise ships and in premium hotels. I’ve opened bars, led teams, planned events, and inspired guests from all over the world.  
+That experience taught me that leadership is more than management, communication is more than meetings, and resilience is more than a buzzword.  
+I combine the mindset of a host with the precision of an engineer.
 
 I studied business informatics, trained as a restaurant specialist and master bartender (IHK).  
-Not only hard at the keyboard, but also hard at the bar. I’m a fan of electronic music and long nights – sometimes for coding, sometimes for celebrating.  
-Between lines of code and beats, I find my balance. Structure, pragmatism, and solution-oriented thinking are always my priorities.
+I’m a fan of electronic music and long nights – sometimes for coding, sometimes for celebrating. Between lines of code and beats, I find my balance.  
+Structure, pragmatism, and clarity are always my compass.
 
-I’m like North German weather: clear, straightforward, and deep.  
+I’m like North German weather: clear, direct, and deep.  
 I analyze like a CTO, act like a captain in a storm – and always stay on course.
 
 If you google me, you’ll find not just code, but concepts. Not just skills, but solutions. Not just projects, but results.  
-Welcome to Marcel Berger – the architect behind performant, secure, and economically sound IT. Real. Honest. Efficient.
+Real. Honest. Efficient.
 
 ---
 
-## My Profile in Keywords
+## Professional Background
 
-### Technologies & Software Development
+I developed enterprise software long before “digitalization” became a buzzword.  
+Whether it’s regulatory financial systems with high security requirements, process platforms in the energy sector, complex identity management solutions, or AI-supported document analysis – I deliver IT that works. Robust, scalable, understandable.
 
-- Over 20 years of experience in software development, more than a decade as a software architect and technical lead in complex enterprise projects  
-- Cloud-native backend development with Java (J2EE / Java EE, Spring Boot, Quarkus) – from classic enterprise systems to highly scalable microservice architectures  
-- Flutter app development for iOS and Android: architecture, state management with Riverpod, responsive UI/UX, performance optimization, and integration of REST and GraphQL APIs  
-- Development of robust enterprise integrations and API designs for REST, GraphQL, and SOAP, including interface architecture and security concepts  
-- Databases: PostgreSQL, Oracle, MySQL – modeling, optimization, and integration for high-performance applications  
-- Event-driven architectures with Apache Kafka and RabbitMQ for scalable and resilient system communication
+For me, IT is not an end in itself but a strategic tool. I make architecture decisions based on facts – focusing on clean code, maintainability, scalability, security, and operating costs across the lifecycle.
 
----
+I currently lead Digitalization and Project Coordination in a critical infrastructure (KRITIS) company – responsible for digital strategy, process automation, and secure cloud architectures.   
+I manage high-impact projects, lead teams technically and organizationally, and build IT solutions that stand up to real-world pressure.
 
-### Security & Identity Management
+Before that, I was founder and managing director of my own software company for over ten years, where I:
 
-- Security and identity management with Keycloak, OAuth2, SAML, SailPoint IdentityIQ, and Microsoft Entra ID (Azure AD)  
-- Design and implementation of secure authentication and authorization, identity federation, and single sign-on for enterprise and cloud environments
+- Managed multimillion-euro projects from acquisition to architecture, implementation, and operations  
+- Built and led cross-functional teams of developers, architects, DevOps engineers, and designers  
+- Developed APIs and microservices that are still in productive use today  
+- Established governance, security, and compliance frameworks  
+- Built automated CI/CD pipelines, containerization, and deployment processes that reduced delivery time and cost  
+- Created clear technical documentation and architectural blueprints for both developers and decision-makers  
 
----
-
-### DevOps, CI/CD & Cloud Operations
-
-- CI/CD pipelines and automations with GitHub Actions and Argo CD  
-- Containerization with Docker and Podman, orchestration with Kubernetes, and automated deployments via infrastructure-as-code  
-- Experience with Azure Cloud Services, especially AKS, Blob & File Storage, Key Vault, and other cloud-native components
+I can plan, architect, develop, operate, and explain software.  
+Understandably. Responsibly. Reliably.  
+I combine technical depth with strategic thinking, speak the language of both developers and executives, and always keep the essentials in focus: value, quality, and sustainability.
 
 ---
 
-### Digital Transformation & Process Automation
+## One Company. Two Minds. Endless Possibilities.
 
-- Analysis, optimization, and digitalization of business processes in SMEs and critical infrastructures  
-- Sustainable process digitalization and workflow automation, including BPMN solutions with Camunda and low-code automations with Make.com and Zapier
+**Berger & Rosenstock GbR** combines the expertise of **Jasmin Rosenstock** and **Marcel Berger** under one brand.  
+What started as a collaboration became a dynamic partnership at the intersection of technology, business, beauty, and lifestyle – grounded in experience, strategy, and creativity.
 
----
+### Jasmin Rosenstock
 
-### Leadership, Agile Methods & Business
+Jasmin holds a Bachelor’s in Health Promotion from Coastal Carolina University (USA) and a Master’s in Public Relations and Corporate Communications from the University of Europe for Applied Sciences.  
+She brings expertise in health promotion, communication, brand strategy, and content creation – bridging academic insight with creative execution.
 
-- More than 10 years as an entrepreneur and self-employed professional in IT consulting, software development, and digital business models  
-- Strategy focus on scaling, monetization, and sustainable digital products  
-- Team leadership and mentoring of developers, architects, and cross-functional teams in agile projects  
-- Practical experience with Scrum, Kanban, and DevOps-oriented development, including product ownership and stakeholder management at C-level
+### Marcel Berger
 
----
+I hold a Bachelor’s degree in Business Informatics from the Technische Hochschule Mittelhessen, combining technical expertise with business acumen.  
+I’m also a certified restaurant specialist and master bartender (IHK) with additional hospitality management and sensory training, and an IHK-certified trainer (AEVO).
 
-### Current Position & Side Projects
+Together, we create digital products, automation solutions, and e-commerce brands, and produce content for YouTube and social media – uniting technology, design, and storytelling for measurable impact.
 
-- Currently: Head of Digitalization & Project Coordination at a critical infrastructure operator (KRITIS) – responsible for digital strategy, IT project portfolios, cybersecurity, and innovation  
-- Additionally: Entrepreneur, app developer, and content creator – communicating complex IT topics, building scalable digital business models, and developing market-ready apps with clear monetization strategies
+Whether software architecture, brand development, or content creation – we work hands-on, directly, and with focus on value, clarity, and sustainable success.
+
+→ [berger-rosenstock.de](https://www.berger-rosenstock.de)
 
 ---
 
@@ -170,81 +212,33 @@ Welcome to Marcel Berger – the architect behind performant, secure, and econom
 
 | Category | Technologies & Platforms |
 |-----------|---------------------------|
-| Programming Languages | Java (J2EE / Java EE, Spring Boot, Quarkus) • Dart • Python • Bash (Shell) • C • BASIC • Turbo Pascal • JavaScript • TypeScript • Go • Groovy • Swift |
+| Programming Languages | Java (J2EE / Java EE, Spring Boot, Quarkus) • Dart • Python • Bash • C • BASIC • Turbo Pascal • JavaScript • TypeScript • Go • Groovy • Swift |
 | Backend Development | Quarkus • Spring Boot • Java EE • RESTful Services • GraphQL APIs • Microservice Architectures |
-| Frontend & UI Frameworks | Flutter (iOS & Android) • Vaadin • Angular • Vue.js • SwiftUI (iOS) • JSP • JSF • PrimeFaces • RichFaces |
+| Frontend & UI Frameworks | Flutter (iOS & Android) • Vaadin • Angular • Vue.js • SwiftUI • JSP • JSF • PrimeFaces • RichFaces |
 | Identity & Security | Keycloak (IAM) • OAuth2 • SAML • JWT • SailPoint IdentityIQ • Microsoft Entra ID |
-| DevOps & CI/CD | Git (GitHub, Bitbucket) • GitHub Actions (CI/CD Automation) • Jenkins • Argo CD (GitOps Deployment) • Docker • Podman • Kubernetes • K9s • Portainer |
+| DevOps & CI/CD | Git (GitHub, Bitbucket) • GitHub Actions • Jenkins • Argo CD • Docker • Podman • Kubernetes • K9s • Portainer |
 | Build & Repository Management | Maven • Gradle • Nexus Repository • Sonatype Nexus • JFrog Artifactory • SonarQube • SonarCloud |
-| Workflow & Process Automation | Camunda BPMN • Kogito • External Task Pattern • Make.com (Low-Code Automation) • Zapier (Integration Automation) |
+| Workflow & Process Automation | Camunda BPMN • Kogito • External Task Pattern • Make.com • Zapier |
 | Cloud & Infrastructure | Microsoft Azure (AKS, Entra ID, Key Vault, Blob & File Storage) • Civo Kubernetes |
 | Operating Systems & Administration | Windows • macOS • Linux (Ubuntu, CentOS, RedHat, Debian, Alpine Linux, Raspberry Pi OS) |
 | Event-Driven Architecture & Messaging | Apache Kafka • RabbitMQ |
-| Databases & Storage | PostgreSQL • Oracle DB • MySQL • H2 Databases • MongoDB • Cassandra • Liquibase (Database Migrations) |
+| Databases & Storage | PostgreSQL • Oracle DB • MySQL • H2 Databases • MongoDB • Cassandra • Liquibase |
 | Testing & Quality Assurance | jUnit • Mockito • Selenium |
-| Reporting & Template Engines | JasperReports • Qute (Quarkus Template Engine) • Thymeleaf • Freemarker • Velocity |
-| IDEs & Development Environments | Eclipse • JetBrains IntelliJ IDEA • JetBrains DataGrip • Android Studio • Xcode • Visual Studio Code (VS Code) • Vim • Nano |
+| Reporting & Template Engines | JasperReports • Qute (Quarkus) • Thymeleaf • Freemarker • Velocity |
+| IDEs & Development Environments | Eclipse • IntelliJ IDEA • DataGrip • Android Studio • Xcode • VS Code • Vim • Nano |
 | Business Tools & Office | Word • Excel • PowerPoint • Miro • Jira & Confluence • SAP |
 | Methods & Practices | Scrum • Scrum Master Certified • Scrum Developer • Kanban • Pair Programming • Test Driven Development (TDD) |
-
----
-
-## Professional Background
-
-I developed enterprise software long before “digitalization” became a buzzword in boardrooms. Whether it’s regulatory financial systems with high security requirements, process platforms in the energy sector, complex identity management solutions, or AI-supported document analysis – I deliver IT solutions that work. Robust, scalable, understandable.
-
-For me, IT is not an end in itself but a strategic tool. I don’t think in features, but in real business value. My systems are designed to be productive tomorrow, expandable the day after, and maintainable and cost-efficient five years from now. I make architecture decisions based on facts – focusing on clean code, maintainability, scalability, security, and operating costs throughout the entire lifecycle.
-
-I currently lead Digitalization and Project Coordination in a critical infrastructure (KRITIS) company. I am responsible for the digital strategy, develop process digitalizations, automation solutions, and secure cloud architectures, lead my team technically and organizationally, and manage complex, high-visibility projects up to executive level.
-
-Previously, I was an entrepreneur and managing director of my own software company for over ten years. During this time, I
-
-- managed multiple multimillion-euro projects – from acquisition to architecture, implementation, and operations  
-- built and led cross-functional teams consisting of developers, architects, DevOps engineers, and UI/UX designers  
-- developed APIs and microservice architectures that are still in productive use today in finance, industry, and the energy sector  
-- established governance, security, and compliance structures to securely and verifiably meet regulatory requirements  
-- built CI/CD pipelines, containerization, and automated deployments to significantly reduce time-to-market and operational costs  
-- created technical documentation, architecture decisions, and operational concepts that were understandable for stakeholders and precise for developers
-
-I can plan, architect, develop, operate, and explain software. Understandably. Responsibly. Reliably. I combine technical depth with strategic thinking, speak the language of developers and decision-makers, and keep the big picture in mind: business value, quality, security, and sustainable IT architectures.
-
----
-
-## One Company. Two Minds. Endless Possibilities.
-
-Berger & Rosenstock GbR combines the joint expertise of Jasmin Rosenstock and Marcel Berger under one brand.  
-What began as a simple collaboration is now a dynamic symbiosis of technology, business, beauty, and lifestyle – built on solid education, practical experience, and entrepreneurial passion.
-
-### Jasmin Rosenstock
-
-Jasmin holds a Bachelor’s degree in Health Promotion from Coastal Carolina University (USA) and a Master of Arts in Public Relations and Corporate Communications from the University of Europe for Applied Sciences.  
-She brings extensive knowledge in health promotion, corporate communications, brand development, and PR strategy. Her focus areas are beauty, lifestyle, communication, and brand positioning – combining academic expertise with creative content creation and strategic thinking.
-
-### Marcel Berger
-
-Marcel holds a Bachelor’s degree in Business Informatics from the Technische Hochschule Mittelhessen and combines technical expertise with business acumen.  
-He is also a certified Restaurant Specialist (IHK) and Master Bartender (IHK) with additional training as a bartender, with comprehensive knowledge in hospitality management, barista skills, and sensory analysis, and is an IHK-certified Trainer (AEVO).
-
-He has over two decades of experience in IT – from programming and software architecture to process digitalization and automation, up to managing companies with multimillion-euro revenues. His profile combines deep technical expertise with entrepreneurial thinking, leadership, and pragmatic execution skills.
-
-### Our Common Focus
-
-Together, we develop digital products such as apps, automation solutions, and workflows, build strong brands in e-commerce, and produce professional content for YouTube and social media.  
-We combine technical knowledge, business strategy, creativity, and communication skills – for results that are visible, useful, and profitable.
-
-Whether software architecture, print-on-demand products, beauty and styling tips, brand development, or content with a clear stance:  
-As an entrepreneurial couple, we work hands-on, directly, and always with a clear focus on value, impact, and sustainable success.
 
 ---
 
 ## Contact & Presence
 
 ### Marcel Berger – IT, Software & Business
-- Website: [marcelrgberger.de](https://www.marcelrgberger.de)
-- YouTube: [Marcel Berger - Apps and More](https://www.youtube.com/@marcel.berger.official)
-- LinkedIn: [View Marcel Berger’s Profile](https://www.linkedin.com/in/marcel-r-g-berger)
-- GitHub: [marcelrgberger](https://github.com/marcelrgberger)
+- Website: [marcelrgberger.com](https://www.marcelrgberger.com)
+- YouTube: [@marcel.berger.official](https://www.youtube.com/@marcel.berger.official)
 - Instagram: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official)
+- LinkedIn: [View Profile](https://www.linkedin.com/in/marcel-r-g-berger)
+- GitHub: [marcelrgberger](https://github.com/marcelrgberger)
 - X (formerly Twitter): [@marcelrgberger](https://x.com/marcelrgberger)
 
 ### Jasmin Rosenstock – Beauty & Lifestyle
@@ -253,13 +247,15 @@ As an entrepreneurial couple, we work hands-on, directly, and always with a clea
 - Instagram: [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty)
 
 ### Our Company
-- GbR Website: [berger-rosenstock.de](https://www.berger-rosenstock.de)
+- Website: [berger-rosenstock.de](https://www.berger-rosenstock.de)
 
 ---
 
-> *“The only way to do great work is to love what you do.” – Steve Jobs*
+> "The only way to do great work is to love what you do." – Steve Jobs  
 
-Thank you for your visit. If you are looking for real substance in the IT world – you’ve just found it. Honest. Direct. Northernly good.
+Thank you for your visit.  
+If you’re looking for real substance in the IT world – you’ve just found it.  
+Honest. Direct. Northernly good.  
 
-[Imprint](https://marcelrgberger.de/impressum) [Privacy Policy](https://marcelrgberger.de/datenschutz)
+[Imprint](https://marcelrgberger.de/impressum) • [Privacy Policy](https://marcelrgberger.de/datenschutz)
 
