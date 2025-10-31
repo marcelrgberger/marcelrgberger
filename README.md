@@ -3,19 +3,39 @@
 Senior Software Architect, Cloud Engineer & Digitalization Expert – with 20 years of deeply rooted IT expertise  
 *Java mastermind • Quarkus visionary • Flutter pioneer • DevOps expert • IT strategist with a hands-on mentality*
 
-I’m not a pretender. I’m Hanseatically direct – born and raised in Osnabrück, with a clear edge, technical depth, and a solution-oriented mindset. If you’re looking for someone who talks instead of delivers, I’m not your guy. But if you need someone who implements digital projects pragmatically, takes responsibility, and isn’t afraid of complexity – then welcome.
+---
 
-My story begins sometime in 1989 or 1990 – no one really knows anymore. Facebook hadn’t been invented, camera film was expensive, and those who wanted to preserve memories needed either a good camera or a damn good memory. But the ENERGY STAR logo already existed – and I had my first computer: a Weico computer running Weico DOS. BASIC was my first language – long before I mastered German grammar. Then came Pascal, C, Java, Python – and a career that led me through many worlds: from the shell to the cloud, from startups to corporations, from terminals to boardrooms. I grew up in a world where the BIOS was still configured by hand, stack overflows couldn’t be googled, and you learned to manage memory efficiently – experiences that still shape me today.
+I’m not a pretender. I’m Hanseatically direct – born and raised in Osnabrück, with a clear edge, technical depth, and a solution-oriented mindset.  
+If you’re looking for someone who talks instead of delivers, I’m not your guy.  
+But if you need someone who implements digital projects pragmatically, takes responsibility, and isn’t afraid of complexity – then welcome.
 
-I develop scalable enterprise backends with Java, automate workflows with Camunda BPMN, move complex systems to the cloud (Azure, Kubernetes, Civo), and build native mobile apps with Flutter. I think long-term, with northern clarity, and develop with one clear goal: software that runs. Today, tomorrow, and the day after.
+My story begins sometime in 1989 or 1990 – no one really knows anymore.  
+Facebook didn’t exist, camera film was expensive, and those who wanted to preserve memories needed either a good camera or a damn good memory.  
+But the ENERGY STAR logo already existed – and I had my first computer: a Weico computer running Weico DOS.
 
-In addition to my passion for software, I spent many years working in hospitality on cruise ships and in upscale hotels. I’ve opened bars, led teams, planned events, and inspired international guests. That time taught me: leadership is more than project planning, communication is more than emails, and resilience is more than a buzzword. I combine the charm of a host with the analytical depth of an IT architect.
+BASIC was my first language – long before I mastered German grammar. Then came Pascal, C, Java, and Python – and a career that led me through many worlds: from the shell to the cloud, from startups to corporations, from terminals to boardrooms.  
+I grew up in a world where the BIOS was configured by hand, stack overflows couldn’t be googled, and memory management was an art. These experiences still shape my engineering mindset today.
 
-I studied business informatics, trained as a restaurant specialist and master bartender (IHK). Not only hard at the keyboard, but also hard at the bar. I’m a fan of electronic music and long nights – sometimes for coding, sometimes for celebrating. Between lines of code and beats, I find my balance. Structure, pragmatism, and solution-oriented thinking are always my priorities.
+---
 
-I’m like North German weather: clear, straightforward, and deep. I analyze like a CTO, act like a captain in a storm – and always stay on course.
+I develop scalable enterprise backends with Java, automate workflows with Camunda BPMN, move complex systems to the cloud (Azure, Kubernetes, Civo), and build native mobile apps with Flutter.  
+I think long-term, with northern clarity, and develop with one clear goal: software that runs. Today, tomorrow, and the day after.
 
-If you google me, you’ll find not just code, but concepts. Not just skills, but solutions. Not just projects, but results. Welcome to Marcel Berger – the architect behind performant, secure, and economically sound IT. Real. Honest. Efficient.
+In addition to my passion for software, I spent many years working in hospitality on cruise ships and in upscale hotels.  
+I’ve opened bars, led teams, planned events, and inspired international guests. That time taught me: leadership is more than project planning, communication is more than emails, and resilience is more than a buzzword.  
+I combine the charm of a host with the analytical depth of an IT architect.
+
+---
+
+I studied business informatics, trained as a restaurant specialist and master bartender (IHK).  
+Not only hard at the keyboard, but also hard at the bar. I’m a fan of electronic music and long nights – sometimes for coding, sometimes for celebrating.  
+Between lines of code and beats, I find my balance. Structure, pragmatism, and solution-oriented thinking are always my priorities.
+
+I’m like North German weather: clear, straightforward, and deep.  
+I analyze like a CTO, act like a captain in a storm – and always stay on course.
+
+If you google me, you’ll find not just code, but concepts. Not just skills, but solutions. Not just projects, but results.  
+Welcome to Marcel Berger – the architect behind performant, secure, and economically sound IT. Real. Honest. Efficient.
 
 ---
 
@@ -23,50 +43,50 @@ If you google me, you’ll find not just code, but concepts. Not just skills, bu
 
 ### Technologies & Software Development
 
-* Over 20 years of experience in software development, more than a decade as a software architect and technical lead in complex enterprise projects  
-* Cloud-native backend development with Java (J2EE / Java EE, Spring Boot, Quarkus) – from classic enterprise systems to highly scalable microservice architectures  
-* Flutter app development for iOS and Android: architecture, state management with Riverpod, responsive UI/UX, performance optimization, and integration of powerful REST and GraphQL APIs  
-* Development of robust enterprise integrations and API designs for REST, GraphQL, and SOAP, including interface architecture and security concepts  
-* Databases: PostgreSQL, Oracle, MySQL – modeling, optimization, and integration for high-performance applications  
-* Event-driven architectures with Apache Kafka and RabbitMQ for scalable and resilient system communication  
+- Over 20 years of experience in software development, more than a decade as a software architect and technical lead in complex enterprise projects  
+- Cloud-native backend development with Java (J2EE / Java EE, Spring Boot, Quarkus) – from classic enterprise systems to highly scalable microservice architectures  
+- Flutter app development for iOS and Android: architecture, state management with Riverpod, responsive UI/UX, performance optimization, and integration of REST and GraphQL APIs  
+- Development of robust enterprise integrations and API designs for REST, GraphQL, and SOAP, including interface architecture and security concepts  
+- Databases: PostgreSQL, Oracle, MySQL – modeling, optimization, and integration for high-performance applications  
+- Event-driven architectures with Apache Kafka and RabbitMQ for scalable and resilient system communication
 
 ---
 
 ### Security & Identity Management
 
-* Expert in security and identity management, including implementation of Keycloak, OAuth2, SAML, SailPoint IdentityIQ, and Microsoft Entra ID (Azure AD)  
-* Design and implementation of secure authentication and authorization solutions, identity federation, and single sign-on for enterprise and cloud environments  
+- Security and identity management with Keycloak, OAuth2, SAML, SailPoint IdentityIQ, and Microsoft Entra ID (Azure AD)  
+- Design and implementation of secure authentication and authorization, identity federation, and single sign-on for enterprise and cloud environments
 
 ---
 
 ### DevOps, CI/CD & Cloud Operations
 
-* Building complete CI/CD pipelines and automations with GitHub Actions and Argo CD  
-* Containerization with Docker and Podman as well as orchestration with Kubernetes, including infrastructure-as-code and automated deployments in production cloud environments  
-* Experience with Azure Cloud Services, especially AKS (Azure Kubernetes Service), Blob & File Storage, Key Vault, and other cloud-native components  
+- CI/CD pipelines and automations with GitHub Actions and Argo CD  
+- Containerization with Docker and Podman, orchestration with Kubernetes, and automated deployments via infrastructure-as-code  
+- Experience with Azure Cloud Services, especially AKS, Blob & File Storage, Key Vault, and other cloud-native components
 
 ---
 
 ### Digital Transformation & Process Automation
 
-* Strategic driver of digital transformation: analysis, optimization, and digitalization of business processes in SMEs as well as in critical infrastructures  
-* Implementation of sustainable process digitalization and workflow automation, including BPMN solutions with Camunda and low-code automations with Make.com and Zapier  
+- Analysis, optimization, and digitalization of business processes in SMEs and critical infrastructures  
+- Sustainable process digitalization and workflow automation, including BPMN solutions with Camunda and low-code automations with Make.com and Zapier
 
 ---
 
 ### Leadership, Agile Methods & Business
 
-* More than 10 years of experience as an entrepreneur and self-employed professional, founding, building, and leading multiple companies in IT consulting, software development, and digital business models  
-* Entrepreneurial strategist focused on scaling, monetization, and developing sustainable digital products and business models  
-* Team leadership and mentoring of developers, architects, and cross-functional teams in agile projects, including responsibility for recruiting, coaching, and team development  
-* Practical experience with Scrum, Kanban, and DevOps-oriented development, including product ownership and stakeholder management at C-level  
+- More than 10 years as an entrepreneur and self-employed professional in IT consulting, software development, and digital business models  
+- Strategy focus on scaling, monetization, and sustainable digital products  
+- Team leadership and mentoring of developers, architects, and cross-functional teams in agile projects  
+- Practical experience with Scrum, Kanban, and DevOps-oriented development, including product ownership and stakeholder management at C-level
 
 ---
 
 ### Current Position & Side Projects
 
-* **Currently**: Head of Digitalization & Project Coordination at a **critical infrastructure operator (KRITIS)**, responsible for **digital strategy**, IT project portfolios, cybersecurity, and innovation  
-* **Additionally**: Entrepreneur, **app developer**, and **content creator** – communicating complex IT topics, building scalable digital business models, and developing market-ready apps with clear monetization strategies  
+- Currently: Head of Digitalization & Project Coordination at a critical infrastructure operator (KRITIS) – responsible for digital strategy, IT project portfolios, cybersecurity, and innovation  
+- Additionally: Entrepreneur, app developer, and content creator – communicating complex IT topics, building scalable digital business models, and developing market-ready apps with clear monetization strategies
 
 ---
 
@@ -146,7 +166,7 @@ If you google me, you’ll find not just code, but concepts. Not just skills, bu
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-
+---
 
 | Category | Technologies & Platforms |
 |-----------|---------------------------|
@@ -171,49 +191,49 @@ If you google me, you’ll find not just code, but concepts. Not just skills, bu
 
 ## Professional Background
 
-I developed enterprise software long before “digitalization” became a buzzword in boardrooms. Whether it’s regulatory financial systems with the highest security requirements, process platforms in the energy sector, complex identity management solutions, or AI-supported document analysis – I deliver IT solutions that work. Robust, scalable, understandable.
+I developed enterprise software long before “digitalization” became a buzzword in boardrooms. Whether it’s regulatory financial systems with high security requirements, process platforms in the energy sector, complex identity management solutions, or AI-supported document analysis – I deliver IT solutions that work. Robust, scalable, understandable.
 
-For me, IT is not an end in itself but a strategic tool. I don’t think in features, but in **real business value**. My systems are designed to be **productive tomorrow**, **expandable the day after**, and **maintainable and cost-efficient five years from now**. I make architecture decisions based on facts – focusing on **clean code**, **maintainability**, **scalability**, **security**, and **operating costs** throughout the entire lifecycle.
+For me, IT is not an end in itself but a strategic tool. I don’t think in features, but in real business value. My systems are designed to be productive tomorrow, expandable the day after, and maintainable and cost-efficient five years from now. I make architecture decisions based on facts – focusing on clean code, maintainability, scalability, security, and operating costs throughout the entire lifecycle.
 
-I currently lead **Digitalization and Project Coordination** in a **critical infrastructure (KRITIS)** company. I am responsible for the **digital strategy**, develop process digitalizations, automation solutions, and secure cloud architectures, lead my team technically and organizationally, and manage complex, high-visibility projects up to executive level.
+I currently lead Digitalization and Project Coordination in a critical infrastructure (KRITIS) company. I am responsible for the digital strategy, develop process digitalizations, automation solutions, and secure cloud architectures, lead my team technically and organizationally, and manage complex, high-visibility projects up to executive level.
 
-Previously, I was an entrepreneur and managing director of my own software company for over ten years. During this time, I:
+Previously, I was an entrepreneur and managing director of my own software company for over ten years. During this time, I
 
-- **Managed multiple multimillion-euro projects** – from acquisition to architecture, implementation, and operations  
-- **Built and led cross-functional teams** consisting of developers, architects, DevOps engineers, and UI/UX designers  
-- **Developed APIs and microservice architectures** that are still in productive use today in finance, industry, and the energy sector  
-- **Established governance, security, and compliance structures** to securely and verifiably meet regulatory requirements  
-- **Built CI/CD pipelines, containerization, and automated deployments** to significantly reduce time-to-market and operational costs  
-- **Created technical documentation, architecture decisions, and operational concepts** that were as understandable for stakeholders as they were precise for developers  
+- managed multiple multimillion-euro projects – from acquisition to architecture, implementation, and operations  
+- built and led cross-functional teams consisting of developers, architects, DevOps engineers, and UI/UX designers  
+- developed APIs and microservice architectures that are still in productive use today in finance, industry, and the energy sector  
+- established governance, security, and compliance structures to securely and verifiably meet regulatory requirements  
+- built CI/CD pipelines, containerization, and automated deployments to significantly reduce time-to-market and operational costs  
+- created technical documentation, architecture decisions, and operational concepts that were understandable for stakeholders and precise for developers
 
-I can **plan**, **architect**, **develop**, **operate**, and **explain** software. Understandably. Responsibly. Reliably. I combine **technical depth** with **strategic thinking**, speak the language of developers and decision-makers, and always keep the big picture in mind: **business value, quality, security, and sustainable IT architectures**.
+I can plan, architect, develop, operate, and explain software. Understandably. Responsibly. Reliably. I combine technical depth with strategic thinking, speak the language of developers and decision-makers, and keep the big picture in mind: business value, quality, security, and sustainable IT architectures.
 
 ---
 
 ## One Company. Two Minds. Endless Possibilities.
 
-**Berger & Rosenstock GbR** combines the joint expertise of **Jasmin Rosenstock** and **Marcel Berger** under one strong brand.  
-What began as a simple collaboration is now a dynamic symbiosis of **technology, business, beauty, and lifestyle** – built on solid education, practical experience, and entrepreneurial passion.
+Berger & Rosenstock GbR combines the joint expertise of Jasmin Rosenstock and Marcel Berger under one brand.  
+What began as a simple collaboration is now a dynamic symbiosis of technology, business, beauty, and lifestyle – built on solid education, practical experience, and entrepreneurial passion.
 
 ### Jasmin Rosenstock
 
-Jasmin Rosenstock holds a Bachelor’s degree in **Health Promotion** from *Coastal Carolina University (USA)* and a Master of Arts in **Public Relations and Corporate Communications** from the *University of Europe for Applied Sciences*.  
-She brings extensive knowledge in health promotion, corporate communications, brand development, and PR strategy. Her focus areas are **beauty, lifestyle, communication, and brand positioning**, combining academic expertise with creative content creation and strategic thinking.
+Jasmin holds a Bachelor’s degree in Health Promotion from Coastal Carolina University (USA) and a Master of Arts in Public Relations and Corporate Communications from the University of Europe for Applied Sciences.  
+She brings extensive knowledge in health promotion, corporate communications, brand development, and PR strategy. Her focus areas are beauty, lifestyle, communication, and brand positioning – combining academic expertise with creative content creation and strategic thinking.
 
 ### Marcel Berger
 
-Marcel Berger holds a Bachelor’s degree in **Business Informatics** from the *Technische Hochschule Mittelhessen* and combines technical expertise with business acumen.  
-He is also a certified **Restaurant Specialist (IHK)**, **Master Bartender (IHK)** with additional training as a bartender, with comprehensive knowledge in hospitality management, **Barista** specializing in coffee preparation and sensory analysis, and an **IHK-certified Trainer (AEVO)**.
+Marcel holds a Bachelor’s degree in Business Informatics from the Technische Hochschule Mittelhessen and combines technical expertise with business acumen.  
+He is also a certified Restaurant Specialist (IHK) and Master Bartender (IHK) with additional training as a bartender, with comprehensive knowledge in hospitality management, barista skills, and sensory analysis, and is an IHK-certified Trainer (AEVO).
 
-He has **over two decades of experience in IT**, from programming and software architecture to process digitalization and automation, up to managing companies with multimillion-euro revenues. His profile combines deep technical expertise with entrepreneurial thinking, leadership, and pragmatic execution skills.
+He has over two decades of experience in IT – from programming and software architecture to process digitalization and automation, up to managing companies with multimillion-euro revenues. His profile combines deep technical expertise with entrepreneurial thinking, leadership, and pragmatic execution skills.
 
 ### Our Common Focus
 
-Together, we develop **digital products** such as apps, automation solutions, and workflows, build **strong brands in e-commerce**, and produce **professional content for YouTube and social media**.  
-We combine technical knowledge, business strategy, creativity, and communication skills – for results that are **visible, useful, and profitable**.
+Together, we develop digital products such as apps, automation solutions, and workflows, build strong brands in e-commerce, and produce professional content for YouTube and social media.  
+We combine technical knowledge, business strategy, creativity, and communication skills – for results that are visible, useful, and profitable.
 
-Whether **software architecture**, **print-on-demand products**, **beauty and styling tips**, **brand development**, or **content with a clear stance**:  
-As an entrepreneurial couple, we work hands-on, directly, and always with a clear focus on **value, impact, and sustainable success**.
+Whether software architecture, print-on-demand products, beauty and styling tips, brand development, or content with a clear stance:  
+As an entrepreneurial couple, we work hands-on, directly, and always with a clear focus on value, impact, and sustainable success.
 
 ---
 
@@ -237,8 +257,9 @@ As an entrepreneurial couple, we work hands-on, directly, and always with a clea
 
 ---
 
-> *"The only way to do great work is to love what you do." – Steve Jobs*
+> *“The only way to do great work is to love what you do.” – Steve Jobs*
 
 Thank you for your visit. If you are looking for real substance in the IT world – you’ve just found it. Honest. Direct. Northernly good.
 
-[Imprint](https://marcelrgberger.de/impressum)    [Privacy Policy](https://marcelrgberger.de/datenschutz)
+[Imprint](https://marcelrgberger.de/impressum) [Privacy Policy](https://marcelrgberger.de/datenschutz)
+
