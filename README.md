@@ -108,3 +108,5 @@ Projects are scoped, outcome-driven, and focused on long-term viability.
 
 Technology is not an end in itself.
 I build software that works — today, tomorrow, and years from now.
+
+[Imprint](https://marcelrgberger.de/impressum) • [Privacy Policy](https://marcelrgberger.de/datenschutz)
