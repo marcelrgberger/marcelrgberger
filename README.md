@@ -1,58 +1,83 @@
-# Apps and Beyond – Turning Ideas into Products
+# Marcel R. G. Berger  
+Software Engineer · Founder · Product Builder  
 
-Hi, I'm Marcel Berger — indie app founder and software architect.
+With over 20 years of experience in software development and system architecture,  
+I build and operate scalable mobile applications and backend systems designed for long-term stability.
 
-I build, operate, and monetize my own apps and selectively take on product-critical client projects.
-My focus is on mobile applications and backend systems that are built to survive real-world use:
-maintainable, stable, secure, and economically viable over the long term.
+I am first and foremost a software engineer who builds real products — not presentations, not prototypes.
 
 ---
 
 ## About
 
-I design and build software end-to-end — from product thinking and UX
-to mobile development, backend architecture, cloud infrastructure, deployment, and operations.
+I design and develop software end-to-end — from product thinking and UX to backend architecture, cloud infrastructure, deployment, and production operations.
 
-I work as a solopreneur, which means there is no handover gap between product decisions and technical execution.
-Architecture, UX, performance, and operating cost are always considered together — not in isolation.
+As a solopreneur, there is no separation between technical decisions and product responsibility.  
+Architecture, performance, security, and operating cost are evaluated together.
 
-My technical focus lies on **mobile apps (Flutter & native iOS with Swift)** and
-**scalable backend systems based on Java and Quarkus**, deployed in cloud-native environments.
-Frameworks are tools, not goals. What matters is that systems remain understandable,
-adaptable, and cost-efficient long after the first release.
+My systems are designed to remain:
+
+- Maintainable  
+- Economically viable  
+- Operationally stable  
+- Technically understandable  
+
+AI is integrated pragmatically where it improves automation, analysis, or workflow efficiency — without compromising architectural clarity or long-term maintainability.
+
+Technology is a tool. Structure and responsibility come first.
+
+---
+
+## Experience
+
+More than two decades of hands-on engineering across startups, enterprise environments, and regulated industries.
+
+Core experience includes:
+
+- Scalable backend systems (Java, Quarkus, Spring)
+- Mobile application development (Flutter, native iOS with Swift)
+- Cloud-native architectures and Kubernetes deployments
+- CI/CD automation and reproducible build environments
+- Identity, security, and compliance-sensitive systems
+- Full lifecycle ownership: idea → architecture → deployment → operation
+
+I have founded and led a software company, delivered multi-million-euro projects, built cross-functional teams, and established governance and security frameworks for long-term system reliability.
+
+Currently, I lead digital transformation and project coordination within a critical infrastructure environment (KRITIS), focusing on secure cloud architectures and process automation under real operational constraints.
 
 ---
 
 ## Products
 
-I build and run my own products as real businesses — not demos or side projects.
-They represent how I work under real constraints.
+I build and operate my own products as sustainable systems under real-world conditions.
 
-**DokuAI**  
-Mobile reporting and documentation for construction sites, service work,
-inspections, and property handovers.  
-→ https://dokuai.app
+### DokuAI  
+Mobile reporting and AI-assisted documentation for construction and service environments.  
+https://dokuai.app
 
-**Sommelio** *(in development)*  
-Personalized wine recommendations based on taste, occasion, and context.
+### Sommelio *(in development)*  
+AI-powered wine recommendations based on taste, context, and personal preference.
 
-**PaperlessIQ** *(in development)*  
-Smart document management and workflow automation for everyday business use.
+### PaperlessIQ *(in development)*  
+Structured document management with intelligent data extraction and workflow automation.
 
 ---
 
-## Focus Areas
+## Technical Focus
 
-- End-to-end product development (idea → launch → operation)
-- Mobile apps (Flutter, native iOS with Swift)
-- Backend architectures with Java & Quarkus
-- Cloud-native systems and containerized deployments
-- CI/CD automation and reproducible environments
-- Maintainability, security, and long-term stability
+- End-to-end product engineering
+- Production-grade mobile applications
+- Scalable backend architecture
+- Cloud-native infrastructure
+- Pragmatic AI integration
+- Long-term maintainability and cost-aware system design
+
+I do not ship experiments.  
+I build systems intended to survive production.
 
 ---
 
-## Core Technologies & Platforms
+## Core Technologies
 
 ### Programming & Mobile
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -66,7 +91,7 @@ Smart document management and workflow automation for everyday business use.
 ![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Cloud, DevOps & Automation
+### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -84,29 +109,13 @@ Smart document management and workflow automation for everyday business use.
 
 ---
 
-## Selective Client Work
-
-In addition to my own products, I occasionally support teams when the work is
-**product-critical** rather than purely operational.
-
-Typical engagements include:
-- **MVP builds**, when time-to-market and clarity matter
-- **App audits and rebuilds**, when systems became slow, fragile, or expensive to maintain
-
-I do not offer generic hourly development.
-Projects are scoped, outcome-driven, and focused on long-term viability.
-
----
-
 ## Contact
 
-- Website: https://marcelrgberger.com  
-- LinkedIn: https://www.linkedin.com/in/marcel-r-g-berger  
-- GitHub: https://github.com/marcelrgberger  
+Website: https://marcelrgberger.com  
+LinkedIn: https://www.linkedin.com/in/marcel-r-g-berger  
+GitHub: https://github.com/marcelrgberger  
 
 ---
 
-Technology is not an end in itself.
-I build software that works — today, tomorrow, and years from now.
-
-[Imprint]([https://marcelrgberger.de/impressum](https://berger-rosenstock.de/imprint)) • [Privacy Policy]([https://marcelrgberger.de/datenschutz](https://berger-rosenstock.de/data-protection))
+Imprint: https://berger-rosenstock.de/imprint  
+Privacy Policy: https://berger-rosenstock.de/data-protection
