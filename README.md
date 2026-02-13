@@ -1,4 +1,4 @@
-# Marcel R. G. Berger  
+# Marcel R. G. Berger - Apps and beyond  
 Software Engineer · Founder · Product Builder  
 
 With over 20 years of experience in software development and system architecture,  
