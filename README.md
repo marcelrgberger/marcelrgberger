@@ -55,11 +55,13 @@ I build and operate my own products as sustainable systems under real-world cond
 Mobile reporting and AI-assisted documentation for construction and service environments.  
 https://dokuai.app
 
-### Sommelio *(in development)*  
+### Sommelio 
 AI-powered wine recommendations based on taste, context, and personal preference.
+https://sommelio.app
 
-### PaperlessIQ *(in development)*  
+### PaperlessIQ
 Structured document management with intelligent data extraction and workflow automation.
+https://paperlessiq.app
 
 ---
 
