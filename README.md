@@ -65,6 +65,19 @@ https://paperlessiq.app
 
 ---
 
+## Book
+
+### Solopreneur – The Art of Working Alone  
+A real-world reflection on building, operating, and sustaining products as a solo founder.
+
+The book explores the structural realities of working independently — including responsibility, decision-making, delayed validation, and the systems required to build without a team.
+
+It is written from within the journey, not after it.
+
+https://amzn.eu/d/06PCcWKD
+
+---
+
 ## Technical Focus
 
 - End-to-end product engineering
