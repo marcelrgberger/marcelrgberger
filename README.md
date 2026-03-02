@@ -1,50 +1,56 @@
 # Marcel R. G. Berger
 
-**Software Architect | Cloud-Native Engineer | Founder | Building AI-Driven Production Systems**
+**Indie App Developer | Software Architect | Author | Building AI-Powered Products**
 
-I design, build, and operate scalable software products end-to-end — from mobile apps and microservice backends to Kubernetes infrastructure and AI-powered autonomous operations. 10+ years in software engineering, including regulated industries (banking, finance, critical infrastructure).
+I design, build, and operate software products end-to-end — from mobile apps and microservice backends to Kubernetes infrastructure and AI-powered autonomous operations. With 20+ years in software engineering, I've built systems across banking, finance, identity management, and critical infrastructure. Today, I channel that experience into building and shipping my own products as an independent developer.
 
-Currently building five production products as a solo founder while leading digital transformation in a KRITIS environment.
+I'm the author of [Solopreneur — The Art of Working Alone](https://amzn.eu/d/06PCcWKD), a book about the structural realities of building products independently — covering decision-making under uncertainty, systems thinking, and working without a team.
+
+Currently building and operating five production products as a solo founder.
 
 ---
 
 ## What I Build
 
 ### Production-Grade Backend Systems
-Microservice architectures with Java, Quarkus, and Spring Boot. Event-driven systems with Apache Kafka.
-I've designed and operated systems with 30+ microservices in high-availability environments for enterprise clients including Union Investment and DZ Bank.
+Microservice architectures with Java, Quarkus, and Spring Boot. Event-driven systems with Apache Kafka, asynchronous processing pipelines, and horizontal autoscaling. I've designed and operated systems with 30+ microservices in high-availability environments for enterprise clients including Union Investment and DZ Bank.
 
 ### Cross-Platform Mobile Applications
-Native-quality apps with Flutter and Swift, deployed to App Store and Google Play. Full CI/CD pipelines from commit to store release via GitHub Actions.
+Native-quality apps with Flutter and Swift, deployed to App Store and Google Play. Offline-first architectures with local persistence (Drift/SwiftData), state management via Riverpod, and full CI/CD pipelines from commit to store release via GitHub Actions. Every app I build goes through automated build, test, and release — no manual deploys.
 
 ### Cloud-Native Infrastructure
-Kubernetes clusters with GitOps (ArgoCD), automated scaling, Helm-based deployments, and full observability stacks (Prometheus, Grafana). I don't just deploy to the cloud — I build and operate the platform.
+Kubernetes clusters with GitOps (ArgoCD), cluster autoscaling with per-pool configuration, Helm-based deployments, and full observability stacks (Prometheus, Grafana, custom dashboards). I don't just deploy to the cloud — I build and operate the entire platform, including DNS automation, certificate management, and automated app onboarding.
 
 ### AI-Driven Autonomous Operations
-Production systems managed by AI agents that monitor, diagnose, and remediate cluster issues autonomously. Claude-powered DevOps agents that run every hour, fix problems, optimize resources, and generate infrastructure improvements — without human intervention.
+Production systems managed by AI agents that monitor, diagnose, and remediate cluster issues autonomously. Claude-powered DevOps agents that run every hour, detect problems, restart failing services, optimize resource allocation, sync node labels, and generate infrastructure improvements — all without human intervention. A separate daily improvement agent analyzes Helm charts, security policies, and cost efficiency across the entire platform.
 
 ### Identity & Security Architecture
-IAM solutions with SailPoint IdentityIQ, Keycloak, OAuth2/OIDC, and Azure Entra ID. Compliance-first architectures for regulated industries (EU DAC6, banking security, KRITIS).
+IAM solutions with SailPoint IdentityIQ, Keycloak, OAuth2/OIDC, and Azure Entra ID. Compliance-first architectures for regulated industries (EU DAC6, banking security, KRITIS). Enterprise-grade identity governance for major German banks.
 
 ---
 
 ## Products
 
-I build and operate my own products under real production constraints — no staging-only demos.
+I build and operate my own products under real production constraints — running on my own Kubernetes cluster with GitOps, automated monitoring, and AI-powered operations. No staging-only demos, no toy projects.
 
-**DokuAI** — AI-powered mobile reporting and documentation for construction and field service. 5 microservices, Kafka, OpenAI, S3 object storage.
+### DokuAI
+AI-powered mobile reporting and documentation for construction and field service. Upload photos, voice recordings, or documents — and DokuAI automatically transcribes audio via OpenAI Whisper, analyzes images with GPT Vision, extracts location metadata, and compiles everything into structured reports. Built as 5 Quarkus microservices (API, Transcription, Image Analysis, Location, Report Generation) connected through Apache Kafka, with PostgreSQL for persistence and Civo S3 for file storage. The image and report services autoscale up to 12 replicas under load. Flutter app for iOS and Android.
 [dokuai.app](https://dokuai.app)
 
-**Sommelio** — AI wine recommendations based on taste, context, and personal preference. 3 microservices, event-driven architecture, image analysis pipeline.
+### Sommelio
+AI wine recommendations based on taste, context, and personal preference. Snap a photo of a wine bottle or label — Sommelio extracts the wine's characteristics using OpenAI Vision, matches them against your taste profile and favorites, and delivers personalized recommendations via Server-Sent Events in real time. Built as 3 Quarkus microservices (API, Extractor, Matching) with Kafka-driven pipeline processing, PostgreSQL, and Civo S3 for image storage. Flutter app with RevenueCat for monetization, Drift for offline persistence, and support for 8 languages.
 [sommelio.app](https://sommelio.app)
 
-**PaperlessIQ** — Intelligent document management with structured data extraction and workflow automation.
+### PaperlessIQ
+Intelligent document management with structured data extraction and workflow automation. Import documents via camera scan, file picker, or share sheet — PaperlessIQ runs on-device OCR using Apple's Vision framework, extracts metadata (dates, amounts, IBANs, invoice numbers), and organizes everything into a deterministic folder structure synced via iCloud. Optional AI-powered classification and summarization through OpenAI. Built as a native iOS app with SwiftUI, SwiftData, CloudKit, and Core Spotlight for full-text search. Offline-first architecture with no document content leaving the device unless explicitly configured.
 [paperlessiq.app](https://paperlessiq.app)
 
-**Pourenzo** — AI bartender that crafts cocktail recommendations from available ingredients and personal taste.
+### Pourenzo
+AI bartender that crafts cocktail recommendations from your available ingredients and personal taste. Photograph your bottles — Pourenzo identifies spirits and ingredients via OpenAI Vision, then generates cocktail recipes you can actually make with what you have at home. Seasonal recommendations, home bar inventory tracking, and personalized suggestions that improve over time. Built as 3 Quarkus microservices (API, Extractor, Matching) with the same Kafka-driven architecture as Sommelio. Flutter app with RevenueCat, Drift, and multi-language support.
 [pourenzo.app](https://pourenzo.app)
 
-**SnapShots** — A dynamic puzzle and quiz game with evolving challenges and animations.
+### SnapShots
+A dynamic word-guessing puzzle game with AI-generated images. Every hour, the backend automatically generates new puzzles — GPT-4o creates words, DALL-E 3 generates three visual clues per puzzle, and all content is translated into 8 languages. Players guess the word from the images, earning points through streak multipliers, time bonuses, and hint strategies. Features a global leaderboard, offline play with incremental sync, sound effects, particle animations, and haptic feedback. Built as a single Quarkus service with PostgreSQL, Liquibase migrations, and a caching layer for image delivery. Flutter app with Riverpod, Drift, and audioplayers.
 [snapshots-quiz.app](https://snapshots-quiz.app)
 
 ---
@@ -52,16 +58,16 @@ I build and operate my own products under real production constraints — no sta
 ## Book
 
 ### [Solopreneur — The Art of Working Alone](https://amzn.eu/d/06PCcWKD)
-A real-world reflection on building and sustaining products as a solo founder. Written from within the journey — covering decision-making under uncertainty, systems thinking, and the structural realities of working independently.
+A real-world reflection on building and sustaining products as a solo founder. Written from within the journey — covering decision-making under uncertainty, systems thinking, and the structural realities of working independently. Not a success story, but an honest account of what it takes to build, ship, and operate products without a team.
 
 ---
 
 ## Industries & Domains
 
+- **SaaS & Product Development** — End-to-end product lifecycle as indie developer and sole engineer, from idea to App Store
 - **Banking & Finance** — Microservice architectures, instant payment systems, regulatory compliance (EU DAC6)
+- **Identity & Access Management** — Enterprise IAM for major German banks with SailPoint and Keycloak
 - **Critical Infrastructure (KRITIS)** — Secure cloud architectures, digital transformation, process automation
-- **Identity & Access Management** — Enterprise IAM for major German banks
-- **SaaS & Product Development** — End-to-end product lifecycle as founder and sole engineer
 
 ---
 
