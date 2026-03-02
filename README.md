@@ -10,23 +10,23 @@ I build and ship my own software products — from idea to App Store. Mobile app
 
 ## Products
 
-### 📋 DokuAI
+### DokuAI
 AI-powered reporting and documentation for construction and field service. Upload photos or voice recordings — DokuAI transcribes, analyzes, and compiles structured reports automatically. 5 microservices, Kafka, OpenAI Whisper & Vision, PostgreSQL. Flutter app for iOS and Android.
 [dokuai.app](https://dokuai.app)
 
-### 🍷 Sommelio
+### Sommelio
 AI wine recommendations from a photo. Snap a bottle or label — Sommelio extracts the wine's profile, matches it against your taste, and delivers personalized suggestions in real time. 3 microservices, Kafka, OpenAI Vision, SSE. Flutter app, 8 languages.
 [sommelio.app](https://sommelio.app)
 
-### 📄 PaperlessIQ
+### PaperlessIQ
 Intelligent document management for iOS. On-device OCR via Apple Vision, automatic metadata extraction, iCloud sync, and optional AI classification. Native SwiftUI app with SwiftData and CloudKit. Offline-first — no data leaves your device unless you want it to.
 [paperlessiq.app](https://paperlessiq.app)
 
-### 🍸 Pourenzo
+### Pourenzo
 AI bartender for your home bar. Photograph your bottles — Pourenzo identifies what you have and generates cocktail recipes you can actually make. 3 microservices, Kafka, OpenAI Vision. Flutter app with multi-language support.
 [pourenzo.app](https://pourenzo.app)
 
-### 🧩 SnapShots
+### SnapShots
 AI-generated word puzzle game. Every hour, the backend creates new puzzles — GPT-4o picks words, DALL-E 3 generates visual clues, everything translated into 8 languages. Global leaderboard, streak system, offline play. Quarkus backend, PostgreSQL. Flutter app.
 [snapshots-quiz.app](https://snapshots-quiz.app)
 
