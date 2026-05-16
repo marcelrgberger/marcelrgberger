@@ -1,6 +1,8 @@
 # Marcel R. G. Berger
 
-**Indie App Developer | Software Architect | Author**
+**AI builds MVPs. I build stable apps.**
+
+Indie App Developer · Software Architect · Author. Development and operations from a single owner.
 
 I build and ship my own software products — from idea to App Store. Mobile apps, microservice backends, Kubernetes infrastructure, and AI-powered automation. Everything designed, built, and operated by me.
 
@@ -110,9 +112,18 @@ What it takes to build, ship, and operate products without a team. Decision-maki
 
 ---
 
+## How I work
+
+I don't outsource. I don't subcontract. I don't pitch what I haven't shipped myself.
+
+Short cycles, written summaries, direct trade-off conversations.
+
+---
+
 ## Contact
 
 Website: [marcelrgberger.com](https://marcelrgberger.com)
+Book a call: [cal.com/marcelrgberger](https://cal.com/marcelrgberger)
 LinkedIn: [linkedin.com/in/marcel-r-g-berger](https://www.linkedin.com/in/marcel-r-g-berger)
 
 ---
