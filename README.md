@@ -120,6 +120,31 @@ Short cycles, written summaries, direct trade-off conversations.
 
 ---
 
+---
+
+## Work with me
+
+Focused sessions and talks — all billed by invoice (no Stripe in Cal.com). Alternatively: pay via [GitHub Sponsors](https://github.com/sponsors/marcelrgberger) — same delivery.
+
+| Session | Duration · Fee | Scope |
+|---------|----------------|-------|
+| [Initial Consultation](https://cal.com/marcelrgberger/consultation) | 30 min · free | Honest take on your app idea before you sink time and money into it |
+| [Pair Programming](https://cal.com/marcelrgberger/pair-programming) | 60 min · €200 | Live coding on your stack — Swift/SwiftUI, Flutter, Java/JVM, Claude Code plugins, CI/CD |
+| [App Review for Vibe Coders](https://cal.com/marcelrgberger/app-review) | 60 min · €250 | Code, architecture, and operations review for AI-built apps that need hardening |
+| [Problem Solver](https://cal.com/marcelrgberger/problem-solver) | 60 min · €300 | One concrete problem you describe upfront — I prepare, we solve it together |
+| [Consulting](https://cal.com/marcelrgberger/consulting) | 60 min · €350 | Architecture / decision support with a written summary delivered within 3 business days |
+| [Conference Talk](https://cal.com/marcelrgberger/conference-talk) | by request · €2.000 | Native macOS/iOS · AI in production at scale · indie Kubernetes & GitOps · Apache Kafka & Quarkus · solo software business · Claude Code plugins |
+
+For conference talks, travel, accommodation, and meals are arranged and paid by the booking organization.
+
+---
+
+## Sponsor this work
+
+[![Sponsor marcelrgberger](https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/marcelrgberger)
+
+If you find any of the public plugins, write-ups, or products useful, consider sponsoring. It directly funds hosting, code signing, infrastructure, and the time I put into open-source.
+
 ## Contact
 
 Website: [marcelrgberger.com](https://marcelrgberger.com)
