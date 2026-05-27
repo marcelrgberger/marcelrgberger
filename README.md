@@ -14,44 +14,44 @@ I build and ship my own software products — from idea to App Store. Mobile app
 
 ### DokuAI
 AI-powered reporting and documentation for construction and field service. Upload photos or voice recordings — DokuAI transcribes, analyzes, and compiles structured reports automatically. 5 microservices, Kafka, OpenAI Whisper & Vision, PostgreSQL. Flutter app, iOS.
-[dokuai.app](https://dokuai.app) · [App Store](https://apps.apple.com/app/id6749177847)
+<a href="https://dokuai.app" target="_blank" rel="noopener noreferrer">dokuai.app</a> · <a href="https://apps.apple.com/app/id6749177847" target="_blank" rel="noopener noreferrer">App Store</a>
 
 ### SnapShots — Photo Speed Quiz
 AI-generated word puzzle game. Every hour, the backend creates new puzzles — GPT-4o picks words, DALL-E 3 generates visual clues, everything translated into 8 languages. Global leaderboard, streak system, offline play. Quarkus backend, PostgreSQL. Flutter app.
-[snapshots-quiz.app](https://snapshots-quiz.app) · [App Store](https://apps.apple.com/app/id6759857715)
+<a href="https://snapshots-quiz.app" target="_blank" rel="noopener noreferrer">snapshots-quiz.app</a> · <a href="https://apps.apple.com/app/id6759857715" target="_blank" rel="noopener noreferrer">App Store</a>
 
 ### CivoCloudManager
 Native macOS app for Civo Cloud — full CRUD, Kubernetes deep integration (live metrics, pods, logs), S3 file browser, firewall management, 8 languages. Swift 6, SwiftUI, zero dependencies.
-[civo-cloud-manager.app.website](https://civo-cloud-manager.app.website) · [App Store](https://apps.apple.com/app/id6760776010) · [Source](https://github.com/marcelrgberger/civo-cloud-manager)
+<a href="https://civo-cloud-manager.app.website" target="_blank" rel="noopener noreferrer">civo-cloud-manager.app.website</a> · <a href="https://apps.apple.com/app/id6760776010" target="_blank" rel="noopener noreferrer">App Store</a> · <a href="https://github.com/marcelrgberger/civo-cloud-manager" target="_blank" rel="noopener noreferrer">Source</a>
 
-More on [marcelrgberger.com](https://marcelrgberger.com) — including products currently in development.
+More on <a href="https://marcelrgberger.com" target="_blank" rel="noopener noreferrer">marcelrgberger.com</a> — including products currently in development.
 
 ---
 
 ## Open Source
 
-### [auto-brew](https://github.com/marcelrgberger/auto-brew)
+### <a href="https://github.com/marcelrgberger/auto-brew" target="_blank" rel="noopener noreferrer">auto-brew</a>
 Native macOS app for Homebrew: background auto-updates, a full Brew GUI for browsing and installing casks, and an AppSnapshot engine for backing up and migrating app data across Macs. Swift.
 
-### [pages-cli](https://github.com/marcelrgberger/pages-cli)
+### <a href="https://github.com/marcelrgberger/pages-cli" target="_blank" rel="noopener noreferrer">pages-cli</a>
 Claude Code plugin: control Apple Pages from Claude — create, edit, format and export documents via `/pages`. 100+ templates, PDF/Word/EPUB export, tables, images. Python.
 
-### [numbers-cli](https://github.com/marcelrgberger/numbers-cli)
+### <a href="https://github.com/marcelrgberger/numbers-cli" target="_blank" rel="noopener noreferrer">numbers-cli</a>
 Claude Code plugin for full Apple Numbers control via AppleScript — create spreadsheets, manage data, format cells, export to PDF/Excel/CSV.
 
-### [whatsapp-cli](https://github.com/marcelrgberger/whatsapp-cli)
+### <a href="https://github.com/marcelrgberger/whatsapp-cli" target="_blank" rel="noopener noreferrer">whatsapp-cli</a>
 Claude Code plugin: control WhatsApp from Claude — read chats, send messages, search, auto-reply, export conversations, monitor in real-time. macOS only. Python.
 
-### [xcode-cli](https://github.com/marcelrgberger/xcode-cli)
+### <a href="https://github.com/marcelrgberger/xcode-cli" target="_blank" rel="noopener noreferrer">xcode-cli</a>
 Claude Code plugin: control Xcode from Claude — build, test, run, clean, manage simulators, schemes, projects, and devices. 30+ commands via AppleScript + xcodebuild + xcrun. Python.
 
-### [jira-cli](https://github.com/marcelrgberger/jira-cli)
+### <a href="https://github.com/marcelrgberger/jira-cli" target="_blank" rel="noopener noreferrer">jira-cli</a>
 Single-file Python CLI for Atlassian Jira Cloud — read and edit issues, comments, transitions, attachments, links, agile boards, and bulk operations. Standard library only, no dependencies.
 
-### [inwx-dns](https://github.com/marcelrgberger/inwx-dns)
+### <a href="https://github.com/marcelrgberger/inwx-dns" target="_blank" rel="noopener noreferrer">inwx-dns</a>
 Claude Code plugin for managing domains and DNS records via the INWX API. Python.
 
-### [askapro-cli](https://github.com/marcelrgberger/askapro-cli)
+### <a href="https://github.com/marcelrgberger/askapro-cli" target="_blank" rel="noopener noreferrer">askapro-cli</a>
 Ask a Pro — AI-powered document analysis with 85+ expert consultation roles for legal, medical, tax, and professional advice. TypeScript.
 
 ---
@@ -72,7 +72,7 @@ Before going indie, I spent 20 years building software in enterprise environment
 
 ## Book
 
-### [Solopreneur — The Art of Working Alone](https://amzn.eu/d/06PCcWKD)
+### <a href="https://amzn.eu/d/06PCcWKD" target="_blank" rel="noopener noreferrer">Solopreneur — The Art of Working Alone</a>
 What it takes to build, ship, and operate products without a team. Decision-making under uncertainty, systems thinking, and the structural realities of working independently. Written from within the journey, not after it.
 
 ---
@@ -145,7 +145,7 @@ Short cycles, written summaries, direct trade-off conversations.
 
 Two ways to engage — pick the one that matches the scope.
 
-### Build a project — [theapparchitect.com](https://theapparchitect.com)
+### Build a project — <a href="https://theapparchitect.com" target="_blank" rel="noopener noreferrer">theapparchitect.com</a>
 
 **Code is cheap. Architecture is the moat.** One architect, end-to-end, accountable for the outcome. Plan, build, hand over — no agency layers between you and the work.
 
@@ -155,20 +155,20 @@ Two ways to engage — pick the one that matches the scope.
 | **Architecture Review** | Two focused weeks looking at the system you already have. Written report with prioritised actions and risk ratings — practical findings, not academic. |
 | **Embedded Architect** | Part-time inside your team. I own the system-design calls and keep your engineers unblocked. Months, not days. |
 
-→ [Start a project on theapparchitect.com](https://theapparchitect.com)
+→ <a href="https://theapparchitect.com" target="_blank" rel="noopener noreferrer">Start a project on theapparchitect.com</a>
 
 ### Book a session
 
-Hour-shaped engagements for one specific question — all billed by invoice (no Stripe in Cal.com). Alternatively: pay via [GitHub Sponsors](https://github.com/sponsors/marcelrgberger) — same delivery.
+Hour-shaped engagements for one specific question — all billed by invoice (no Stripe in Cal.com). Alternatively: pay via <a href="https://github.com/sponsors/marcelrgberger" target="_blank" rel="noopener noreferrer">GitHub Sponsors</a> — same delivery.
 
 | Session | Duration · Fee | Scope |
 |---------|----------------|-------|
-| [Initial Consultation](https://cal.com/marcelrgberger/consultation) | 30 min · free | Honest take on your app idea before you sink time and money into it |
-| [Pair Programming](https://cal.com/marcelrgberger/pair-programming) | 60 min · €200 | Live coding on your stack — Swift/SwiftUI, Flutter, Java/JVM, Claude Code plugins, CI/CD |
-| [App Review for Vibe Coders](https://cal.com/marcelrgberger/app-review) | 60 min · €250 | Code, architecture, and operations review for AI-built apps that need hardening |
-| [Problem Solver](https://cal.com/marcelrgberger/problem-solver) | 60 min · €300 | One concrete problem you describe upfront — I prepare, we solve it together |
-| [Consulting](https://cal.com/marcelrgberger/consulting) | 60 min · €350 | Architecture / decision support with a written summary delivered within 3 business days |
-| [Conference Talk](https://cal.com/marcelrgberger/conference-talk) | by request · €2.000 | Native macOS/iOS · AI in production at scale · indie Kubernetes & GitOps · Apache Kafka & Quarkus · solo software business · Claude Code plugins |
+| <a href="https://cal.com/marcelrgberger/consultation" target="_blank" rel="noopener noreferrer">Initial Consultation</a> | 30 min · free | Honest take on your app idea before you sink time and money into it |
+| <a href="https://cal.com/marcelrgberger/pair-programming" target="_blank" rel="noopener noreferrer">Pair Programming</a> | 60 min · €200 | Live coding on your stack — Swift/SwiftUI, Flutter, Java/JVM, Claude Code plugins, CI/CD |
+| <a href="https://cal.com/marcelrgberger/app-review" target="_blank" rel="noopener noreferrer">App Review for Vibe Coders</a> | 60 min · €250 | Code, architecture, and operations review for AI-built apps that need hardening |
+| <a href="https://cal.com/marcelrgberger/problem-solver" target="_blank" rel="noopener noreferrer">Problem Solver</a> | 60 min · €300 | One concrete problem you describe upfront — I prepare, we solve it together |
+| <a href="https://cal.com/marcelrgberger/consulting" target="_blank" rel="noopener noreferrer">Consulting</a> | 60 min · €350 | Architecture / decision support with a written summary delivered within 3 business days |
+| <a href="https://cal.com/marcelrgberger/conference-talk" target="_blank" rel="noopener noreferrer">Conference Talk</a> | by request · €2.000 | Native macOS/iOS · AI in production at scale · indie Kubernetes & GitOps · Apache Kafka & Quarkus · solo software business · Claude Code plugins |
 
 For conference talks, travel, accommodation, and meals are arranged and paid by the booking organization.
 
@@ -176,19 +176,19 @@ For conference talks, travel, accommodation, and meals are arranged and paid by 
 
 ## Sponsor this work
 
-[![Sponsor marcelrgberger](https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/marcelrgberger)
+<a href="https://github.com/sponsors/marcelrgberger" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor marcelrgberger"></a>
 
 If you find any of the public plugins, write-ups, or products useful, consider sponsoring. It directly funds hosting, code signing, infrastructure, and the time I put into open-source.
 
 ## Contact
 
-Personal site: [marcelrgberger.com](https://marcelrgberger.com)
-Studio: [theapparchitect.com](https://theapparchitect.com)
-Book a call: [cal.com/marcelrgberger](https://cal.com/marcelrgberger)
-LinkedIn: [linkedin.com/in/marcel-r-g-berger](https://www.linkedin.com/in/marcel-r-g-berger)
-Reddit: [reddit.com/user/Constant-Chemical23](https://www.reddit.com/user/Constant-Chemical23/)
+Personal site: <a href="https://marcelrgberger.com" target="_blank" rel="noopener noreferrer">marcelrgberger.com</a>
+Studio: <a href="https://theapparchitect.com" target="_blank" rel="noopener noreferrer">theapparchitect.com</a>
+Book a call: <a href="https://cal.com/marcelrgberger" target="_blank" rel="noopener noreferrer">cal.com/marcelrgberger</a>
+LinkedIn: <a href="https://www.linkedin.com/in/marcel-r-g-berger" target="_blank" rel="noopener noreferrer">linkedin.com/in/marcel-r-g-berger</a>
+Reddit: <a href="https://www.reddit.com/user/Constant-Chemical23/" target="_blank" rel="noopener noreferrer">reddit.com/user/Constant-Chemical23</a>
 
 ---
 
-Imprint: [marcelrgberger.com/imprint](https://marcelrgberger.com/imprint/)
-Privacy: [marcelrgberger.com/privacy](https://marcelrgberger.com/privacy/)
+Imprint: <a href="https://marcelrgberger.com/imprint/" target="_blank" rel="noopener noreferrer">marcelrgberger.com/imprint</a>
+Privacy: <a href="https://marcelrgberger.com/privacy/" target="_blank" rel="noopener noreferrer">marcelrgberger.com/privacy</a>
