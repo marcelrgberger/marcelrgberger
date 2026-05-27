@@ -6,31 +6,53 @@ Indie App Developer · Software Architect · Author. Development and operations 
 
 I build and ship my own software products — from idea to App Store. Mobile apps, microservice backends, Kubernetes infrastructure, and AI-powered automation. Everything designed, built, and operated by me.
 
-20+ years in software engineering. Currently building and operating five production products as a solo founder.
+20+ years in software engineering. Currently building and operating production products as a solo founder.
 
 ---
 
-## Products
+## Live in the App Store
 
 ### DokuAI
 AI-powered reporting and documentation for construction and field service. Upload photos or voice recordings — DokuAI transcribes, analyzes, and compiles structured reports automatically. 5 microservices, Kafka, OpenAI Whisper & Vision, PostgreSQL. Flutter app for iOS and Android.
-[dokuai.app](https://dokuai.app)
+[dokuai.app](https://dokuai.app) · [App Store](https://apps.apple.com/app/id6749177847)
 
-### Sommelio
-AI wine recommendations from a photo. Snap a bottle or label — Sommelio extracts the wine's profile, matches it against your taste, and delivers personalized suggestions in real time. 3 microservices, Kafka, OpenAI Vision, SSE. Flutter app, 8 languages.
-[sommelio.app](https://sommelio.app)
-
-### PaperlessIQ
-Intelligent document management for iOS. On-device OCR via Apple Vision, automatic metadata extraction, iCloud sync, and optional AI classification. Native SwiftUI app with SwiftData and CloudKit. Offline-first — no data leaves your device unless you want it to.
-[paperlessiq.app](https://paperlessiq.app)
-
-### Pourenzo
-AI bartender for your home bar. Photograph your bottles — Pourenzo identifies what you have and generates cocktail recipes you can actually make. 3 microservices, Kafka, OpenAI Vision. Flutter app with multi-language support.
-[pourenzo.app](https://pourenzo.app)
-
-### SnapShots
+### SnapShots — Photo Speed Quiz
 AI-generated word puzzle game. Every hour, the backend creates new puzzles — GPT-4o picks words, DALL-E 3 generates visual clues, everything translated into 8 languages. Global leaderboard, streak system, offline play. Quarkus backend, PostgreSQL. Flutter app.
-[snapshots-quiz.app](https://snapshots-quiz.app)
+[snapshots-quiz.app](https://snapshots-quiz.app) · [App Store](https://apps.apple.com/app/id6759857715)
+
+### CivoCloudManager
+Native macOS app for Civo Cloud — full CRUD, Kubernetes deep integration (live metrics, pods, logs), S3 file browser, firewall management, 8 languages. Swift 6, SwiftUI, zero dependencies.
+[civo-cloud-manager.app.website](https://civo-cloud-manager.app.website) · [App Store](https://apps.apple.com/app/id6760776010) · [Source](https://github.com/marcelrgberger/civo-cloud-manager)
+
+More on [marcelrgberger.com](https://marcelrgberger.com) — including products currently in development.
+
+---
+
+## Open Source
+
+### [auto-brew](https://github.com/marcelrgberger/auto-brew)
+Native macOS app for Homebrew: background auto-updates, a full Brew GUI for browsing and installing casks, and an AppSnapshot engine for backing up and migrating app data across Macs. Swift.
+
+### [pages-cli](https://github.com/marcelrgberger/pages-cli)
+Claude Code plugin: control Apple Pages from Claude — create, edit, format and export documents via `/pages`. 100+ templates, PDF/Word/EPUB export, tables, images. Python.
+
+### [numbers-cli](https://github.com/marcelrgberger/numbers-cli)
+Claude Code plugin for full Apple Numbers control via AppleScript — create spreadsheets, manage data, format cells, export to PDF/Excel/CSV.
+
+### [whatsapp-cli](https://github.com/marcelrgberger/whatsapp-cli)
+Claude Code plugin: control WhatsApp from Claude — read chats, send messages, search, auto-reply, export conversations, monitor in real-time. macOS only. Python.
+
+### [xcode-cli](https://github.com/marcelrgberger/xcode-cli)
+Claude Code plugin: control Xcode from Claude — build, test, run, clean, manage simulators, schemes, projects, and devices. 30+ commands via AppleScript + xcodebuild + xcrun. Python.
+
+### [jira-cli](https://github.com/marcelrgberger/jira-cli)
+Single-file Python CLI for Atlassian Jira Cloud — read and edit issues, comments, transitions, attachments, links, agile boards, and bulk operations. Standard library only, no dependencies.
+
+### [inwx-dns](https://github.com/marcelrgberger/inwx-dns)
+Claude Code plugin for managing domains and DNS records via the INWX API. Python.
+
+### [askapro-cli](https://github.com/marcelrgberger/askapro-cli)
+Ask a Pro — AI-powered document analysis with 85+ expert consultation roles for legal, medical, tax, and professional advice. TypeScript.
 
 ---
 
@@ -120,8 +142,6 @@ Short cycles, written summaries, direct trade-off conversations.
 
 ---
 
----
-
 ## Work with me
 
 Focused sessions and talks — all billed by invoice (no Stripe in Cal.com). Alternatively: pay via [GitHub Sponsors](https://github.com/sponsors/marcelrgberger) — same delivery.
@@ -154,5 +174,5 @@ Reddit: [reddit.com/user/Constant-Chemical23](https://www.reddit.com/user/Consta
 
 ---
 
-Imprint: [berger-rosenstock.de/imprint](https://berger-rosenstock.de/imprint)
-Privacy: [berger-rosenstock.de/data-protection](https://berger-rosenstock.de/data-protection)
+Imprint: [marcelrgberger.com/imprint](https://marcelrgberger.com/imprint/)
+Privacy: [marcelrgberger.com/privacy](https://marcelrgberger.com/privacy/)
