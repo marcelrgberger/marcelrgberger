@@ -13,7 +13,7 @@ I build and ship my own software products — from idea to App Store. Mobile app
 ## Live in the App Store
 
 ### DokuAI
-AI-powered reporting and documentation for construction and field service. Upload photos or voice recordings — DokuAI transcribes, analyzes, and compiles structured reports automatically. 5 microservices, Kafka, OpenAI Whisper & Vision, PostgreSQL. Flutter app for iOS and Android.
+AI-powered reporting and documentation for construction and field service. Upload photos or voice recordings — DokuAI transcribes, analyzes, and compiles structured reports automatically. 5 microservices, Kafka, OpenAI Whisper & Vision, PostgreSQL. Flutter app, iOS.
 [dokuai.app](https://dokuai.app) · [App Store](https://apps.apple.com/app/id6749177847)
 
 ### SnapShots — Photo Speed Quiz
@@ -129,7 +129,6 @@ What it takes to build, ship, and operate products without a team. Decision-maki
 
 ### App Distribution
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=for-the-badge)
 
 ---
