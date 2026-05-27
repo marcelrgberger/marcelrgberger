@@ -142,9 +142,25 @@ Short cycles, written summaries, direct trade-off conversations.
 
 ---
 
-## Work with me
+## Work together
 
-Focused sessions and talks — all billed by invoice (no Stripe in Cal.com). Alternatively: pay via [GitHub Sponsors](https://github.com/sponsors/marcelrgberger) — same delivery.
+Two ways to engage — pick the one that matches the scope.
+
+### Build a project — [theapparchitect.com](https://theapparchitect.com)
+
+**Code is cheap. Architecture is the moat.** One architect, end-to-end, accountable for the outcome. Plan, build, hand over — no agency layers between you and the work.
+
+| Engagement | Scope |
+|------------|-------|
+| **Full Build** | From whiteboard to App Store. Planning, architecture, UX and delivery. You receive source code, build pipelines and a written handover. Fixed scope, fixed price. |
+| **Architecture Review** | Two focused weeks looking at the system you already have. Written report with prioritised actions and risk ratings — practical findings, not academic. |
+| **Embedded Architect** | Part-time inside your team. I own the system-design calls and keep your engineers unblocked. Months, not days. |
+
+→ [Start a project on theapparchitect.com](https://theapparchitect.com)
+
+### Book a session
+
+Hour-shaped engagements for one specific question — all billed by invoice (no Stripe in Cal.com). Alternatively: pay via [GitHub Sponsors](https://github.com/sponsors/marcelrgberger) — same delivery.
 
 | Session | Duration · Fee | Scope |
 |---------|----------------|-------|
@@ -167,7 +183,8 @@ If you find any of the public plugins, write-ups, or products useful, consider s
 
 ## Contact
 
-Website: [marcelrgberger.com](https://marcelrgberger.com)
+Personal site: [marcelrgberger.com](https://marcelrgberger.com)
+Studio: [theapparchitect.com](https://theapparchitect.com)
 Book a call: [cal.com/marcelrgberger](https://cal.com/marcelrgberger)
 LinkedIn: [linkedin.com/in/marcel-r-g-berger](https://www.linkedin.com/in/marcel-r-g-berger)
 Reddit: [reddit.com/user/Constant-Chemical23](https://www.reddit.com/user/Constant-Chemical23/)
