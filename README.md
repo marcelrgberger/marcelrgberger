@@ -60,7 +60,7 @@ Ask a Pro — AI-powered document analysis with 85+ expert consultation roles fo
 
 ## The Platform Behind It
 
-All products run on my own Kubernetes cluster with GitOps (ArgoCD), Helm-based deployments, and full observability via Prometheus and Grafana. CI/CD pipelines from commit to App Store release via GitHub Actions — no manual deploys.
+All products run on the **Digital Freedom** platform — my own Kubernetes cluster with GitOps (ArgoCD), Helm-based deployments, and full observability via Prometheus and Grafana. CI/CD pipelines from commit to App Store release via GitHub Actions — no manual deploys.
 
 The cluster is monitored and maintained by AI agents I built myself. A Claude-powered ops agent runs every hour — detecting problems, restarting services, optimizing resources, and applying fixes autonomously. A second agent runs daily to analyze infrastructure, improve Helm charts, and tune security policies. No human in the loop.
 
