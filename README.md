@@ -8,6 +8,8 @@ I build and ship my own software products — from idea to App Store. Mobile app
 
 20+ years in software engineering. Currently building and operating production products as a solo founder.
 
+I build under **[Digital Freedom](https://github.com/digitalfreedom-co-za)** — a Berger & Rosenstock GbR brand.
+
 ---
 
 ## Live in the App Store
