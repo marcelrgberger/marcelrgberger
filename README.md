@@ -10,7 +10,7 @@ I work under **Berger & Rosenstock GbR** — the **[Digital Freedom](https://git
 
 ## Build your app — The App Architect
 
-Need an app built? Under **[The App Architect](https://theapparchitect.com)** I take your idea from whiteboard to the App Store as a single accountable architect — **fixed price, no agency overhead, and you own all the code**. MVP from €5,000 in about 5 days, production iPhone + Android app from €30,000.
+Need an app built? Under **[The App Architect](https://theapparchitect.com)** I take your idea from whiteboard to the App Store as a single accountable architect — **fixed price, no agency overhead, and you own all the code**. MVP from €15,000 in 2–4 weeks, production iPhone + Android app from €45,000.
 
 **[theapparchitect.com →](https://theapparchitect.com)** · [Book a free call](https://theapparchitect.com/contact/#book)
 
