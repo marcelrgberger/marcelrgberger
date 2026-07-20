@@ -12,6 +12,14 @@ I build under **[Digital Freedom](https://github.com/digitalfreedom-co-za)** —
 
 ---
 
+## Build your app — end to end
+
+Need an app built? I take your idea from whiteboard to the App Store as a single accountable architect — **fixed price, no agency overhead, you own all the code**. MVP from €5,000 in about 5 days, production iPhone + Android app from €30,000.
+
+**[The App Architect →](https://theapparchitect.com)** · [Book a free call](https://theapparchitect.com/contact/#book)
+
+---
+
 ## Live in the App Store
 
 ### DokuAI
