@@ -19,11 +19,11 @@ Need an app built? Under **[The App Architect](https://theapparchitect.com)** I 
 ## Live in the App Store
 
 ### Sommelio — Wine Scanner & AI
-Photograph a wine bottle and get a verdict matched to your taste profile — it trains itself from every confirmed match. Quarkus microservice mesh, OpenAI Vision label reading, taste-vector matching. Flutter app, iOS.
+Photograph a wine bottle and get a verdict matched to your taste profile — it trains itself from every confirmed match. Quarkus microservice mesh, OpenAI Vision label reading, taste-vector matching. Flutter app, iOS & Android.
 <a href="https://sommelio.app" target="_blank" rel="noopener noreferrer">sommelio.app</a> · <a href="https://apps.apple.com/app/id6753221944" target="_blank" rel="noopener noreferrer">App Store</a>
 
 ### DokuAI — Site Documentation
-AI-powered reporting for construction and field service. A photo or voice memo on site is transcribed, geocoded, analyzed and compiled into a structured, validated report — 45 minutes of evening paperwork become 90 seconds on site. Quarkus microservice mesh on Kubernetes, Kafka, OpenAI Whisper & Vision, PostgreSQL. Flutter app, iOS.
+AI-powered reporting for construction and field service. A photo or voice memo on site is transcribed, geocoded, analyzed and compiled into a structured, validated report — 45 minutes of evening paperwork become 90 seconds on site. Quarkus microservice mesh on Kubernetes, Kafka, OpenAI Whisper & Vision, PostgreSQL. Flutter app, iOS & Android.
 <a href="https://dokuai.app" target="_blank" rel="noopener noreferrer">dokuai.app</a> · <a href="https://apps.apple.com/app/id6749177847" target="_blank" rel="noopener noreferrer">App Store</a>
 
 ### Photo Speed Quiz — SnapShots
