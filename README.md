@@ -2,9 +2,9 @@
 
 **Software architect · I build apps end to end — my own products, and yours.**
 
-Founder, software architect and author with 20+ years of engineering experience. I design, build and operate production software end to end: native iOS and macOS (Swift, SwiftUI), cross-platform (Flutter), and high-performance backends (Quarkus on Kubernetes). Built anywhere, for everywhere.
+Founder, software architect and author with 20+ years of engineering experience. I design, build and operate production software end to end: native iOS and macOS (Swift, SwiftUI), cross-platform (Flutter), and high-performance backends (Quarkus on Kubernetes).
 
-Everything runs under **DigitalFreedom Global LLC**, in two branches: **[marcelrgberger.com](https://marcelrgberger.com)** for my own apps, and **[The App Architect](https://theapparchitect.com)** for apps I build for clients.
+I work under **[DigitalFreedom](https://github.com/digitalfreedom-co-za)** — the product brand of DigitalFreedom Global LLC — and **[The App Architect](https://theapparchitect.com)**, where I build apps for clients.
 
 ---
 
