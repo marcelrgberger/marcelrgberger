@@ -4,7 +4,7 @@
 
 Founder, software architect and author with 20+ years of engineering experience. I design, build and operate production software end to end: native iOS and macOS (Swift, SwiftUI), cross-platform (Flutter), and high-performance backends (Quarkus on Kubernetes). Based in Bad Nauheim, Germany.
 
-I work under **Berger & Rosenstock GbR** — the **[Digital Freedom](https://github.com/digitalfreedom-co-za)** product brand, and **[The App Architect](https://theapparchitect.com)**, where I build apps for clients.
+I work under **[DigitalFreedom](https://github.com/digitalfreedom-co-za)** — the product brand of DigitalFreedom Global LLC — and **[The App Architect](https://theapparchitect.com)**, where I build apps for clients.
 
 ---
 
