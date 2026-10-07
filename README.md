@@ -10,9 +10,31 @@ I work under **[DigitalFreedom](https://github.com/digitalfreedom-co-za)** — t
 
 ## Build your app — The App Architect
 
-Need an app built? Under **[The App Architect](https://theapparchitect.com)** I take your idea from whiteboard to the App Store as a single accountable architect — **fixed price, no agency overhead, and you own all the code**.
+**Your app has to work for paying customers. I take responsibility for the tech behind it.**
+
+Under **[The App Architect](https://theapparchitect.com)** I work for companies without their own technical lead:
+
+- **Build** — a production app for iPhone and Android with a backend that grows with you
+- **Take over** — your developer or agency is gone, the app still has users
+- **Rescue** — the project stalled or the budget is spent with nothing in the store
+- **Vendor security review** — a bank or large customer sent you a security questionnaire; I prepare the answers and the evidence
+
+Fixed price per milestone, in writing. The code sits in your repository from day one; with each paid milestone, the rights to everything delivered up to that point pass to you.
 
 **[theapparchitect.com →](https://theapparchitect.com)** · [Book a free call](https://theapparchitect.com/contact/#book)
+
+### Background
+
+20+ years of enterprise engineering:
+
+- Microservice and event-driven architectures for banks and financial services
+- Identity and access for regulated industries — roles, permissions, single sign-on, segregation of duties
+- Instant payments — real-time payment processing, round-the-clock operation
+- B2C and B2B apps in the App Store and Play Store, built, published and run myself
+- CI/CD pipelines through to store delivery
+- DevOps and operations — containers, Kubernetes, GitOps, monitoring
+- Process automation — long-running business processes modelled in BPMN
+- Technical leadership — founded and ran a software company: team, budget, client delivery
 
 ---
 
@@ -70,9 +92,6 @@ Claude Code plugin: control WhatsApp from Claude — read chats, send messages, 
 ### <a href="https://github.com/marcelrgberger/xcode-cli" target="_blank" rel="noopener noreferrer">xcode-cli</a>
 Claude Code plugin: control Xcode from Claude — build, test, run, clean, manage simulators, schemes, projects and devices. 30+ commands via AppleScript + xcodebuild + xcrun. Python.
 
-### <a href="https://github.com/marcelrgberger/jira-cli" target="_blank" rel="noopener noreferrer">jira-cli</a>
-Single-file Python CLI for Atlassian Jira Cloud — issues, comments, transitions, attachments, links, agile boards and bulk operations. Standard library only, no dependencies.
-
 ### <a href="https://github.com/marcelrgberger/inwx-dns" target="_blank" rel="noopener noreferrer">inwx-dns</a>
 Claude Code plugin for managing domains and DNS records via the INWX API. Python.
 
@@ -91,5 +110,6 @@ Swift · SwiftUI · Flutter · Dart · Quarkus · Java · Kafka · PostgreSQL ·
 
 - Client work — **[The App Architect](https://theapparchitect.com)**
 - Personal site — **[marcelrgberger.com](https://marcelrgberger.com)**
-- **[LinkedIn](https://www.linkedin.com/in/marcelrgberger/)** · **[YouTube](https://www.youtube.com/@marcel.berger.official)**
+- **[LinkedIn](https://www.linkedin.com/in/marcel-r-g-berger)** · **[YouTube](https://www.youtube.com/@marcel.berger.official)**
+- Project inquiries — hello@digitalfreedom.co.za
 - Email — hello@marcelrgberger.com
