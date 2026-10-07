@@ -12,7 +12,7 @@ I work under **[DigitalFreedom](https://github.com/digitalfreedom-co-za)** — t
 
 **Your app has to work for paying customers. I take responsibility for the tech behind it.**
 
-Under **[The App Architect](https://theapparchitect.com)** I work for companies without their own technical lead:
+Under **[The App Architect](https://theapparchitect.com)** I work for companies without their own technical lead, and for teams that need a seasoned architect for an app, a review or a vendor security review:
 
 - **Build** — a production app for iPhone and Android with a backend that grows with you
 - **Take over** — your developer or agency is gone, the app still has users
