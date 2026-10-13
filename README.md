@@ -38,7 +38,7 @@ AI-powered reporting for construction and field service. A photo or voice memo o
 <a href="https://dokuai.app" target="_blank" rel="noopener noreferrer">dokuai.app</a> · <a href="https://apps.apple.com/app/id6749177847" target="_blank" rel="noopener noreferrer">App Store</a>
 
 ### Photo Speed Quiz — SnapShots
-AI-generated word puzzle game. Every hour the backend creates new puzzles — GPT-4o picks the words, DALL·E 3 generates the visual clues, everything translated into 8 languages. Global leaderboard, streak system, offline play. Quarkus backend, PostgreSQL. Flutter app, iOS.
+AI-generated word puzzle game. Every hour the backend creates new puzzles — GPT-4o picks the words, DALL·E 3 generates the visual clues, everything translated into 10 languages. Global leaderboard, streak system, offline play. Quarkus backend, PostgreSQL. Flutter app, iOS.
 <a href="https://snapshots-quiz.app" target="_blank" rel="noopener noreferrer">snapshots-quiz.app</a> · <a href="https://apps.apple.com/app/id6759857715" target="_blank" rel="noopener noreferrer">App Store</a>
 
 ### CivoCloudManager
