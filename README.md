@@ -1,29 +1,18 @@
 # Marcel R. G. Berger
 
-**Software architect · I build apps end to end — my own products, and yours.**
+**I build apps and run them myself.**
 
-Founder, software architect and author with 20+ years of engineering experience. I design, build and operate production software end to end: native iOS and macOS (Swift, SwiftUI), cross-platform (Flutter), and high-performance backends (Quarkus on Kubernetes).
+Software architect, 20+ years · indie app developer · author
 
-I work under **[DigitalFreedom](https://github.com/digitalfreedom-co-za)** — the product brand of DigitalFreedom Global LLC — and **[The App Architect](https://theapparchitect.com)**, where I build apps for clients.
+I build apps for iPhone, Android and Mac and the fast systems behind them, and I take every app all the way from design and build to operations. I hold the store accounts and signing keys of my own apps and ship every release myself. Behind that are more than 20 years building software that has to work, for banks, insurers, energy companies and public authorities: payments that clear in seconds, logins that only let the right people in, systems that run around the clock.
+
+I am one of the two members of **[DigitalFreedom Global LLC](https://digitalfreedom.co.za)** ([GitHub](https://github.com/digitalfreedom-co-za)), the company behind my apps and **[The App Architect](https://theapparchitect.com)**.
+
+> **Your app runs. I take care of the rest.** As The App Architect, I build, take over or rescue apps for companies and then run them, fully looked after. The accounts stay in your name, and the code sits in your repository from day one. **[theapparchitect.com →](https://theapparchitect.com)**
 
 ---
 
-## Build your app — The App Architect
-
-**Your app has to work for paying customers. I take responsibility for the tech behind it.**
-
-Under **[The App Architect](https://theapparchitect.com)** I work for companies without their own technical lead, and for teams that need a seasoned architect for an app, a review or a vendor security review:
-
-- **Build** — a production app for iPhone and Android with a backend that grows with you
-- **Take over** — your developer or agency is gone, the app still has users
-- **Rescue** — the project stalled or the budget is spent with nothing in the store
-- **Vendor security review** — a bank or large customer sent you a security questionnaire; I prepare the answers and the evidence
-
-Fixed price per milestone, in writing. The code sits in your repository from day one; with each paid milestone, the rights to everything delivered up to that point pass to you.
-
-**[theapparchitect.com →](https://theapparchitect.com)** · [Book a free call](https://theapparchitect.com/contact/#book)
-
-### Background
+## Background
 
 20+ years of enterprise engineering:
 
