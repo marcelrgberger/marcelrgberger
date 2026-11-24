@@ -100,4 +100,5 @@ Swift · SwiftUI · Flutter · Dart · Quarkus · Java · Kafka · PostgreSQL ·
 - Client work — **[The App Architect](https://theapparchitect.com)**
 - Personal site — **[marcelrgberger.com](https://marcelrgberger.com)**
 - **[LinkedIn](https://www.linkedin.com/in/marcel-r-g-berger)** · **[YouTube](https://www.youtube.com/@marcel.berger.official)**
+- Speaker profile on **[Sessionize](https://sessionize.com/marcelrgberger/)**
 - Email — hello@digitalfreedom.co.za
